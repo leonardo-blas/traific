@@ -1,5 +1,6 @@
 # driving-simulator
 
 
-https://github.com/leonardo-blas/driving-simulator/assets/125172895/aee0cae1-988d-4ff0-b164-c05c9e0f2a84
+
+https://github.com/leonardo-blas/driving-simulator/assets/125172895/b9bbbeaa-fab0-4f6c-9678-36f760f21576
 
