@@ -1,0 +1,160 @@
+// This file is generated. Do not modify by hand.
+// XML documentation file not found. To check if public methods have XML comments,
+// make sure the XML doc file is present and located next to the scraped dll
+namespace Unity.Services.Multiplay
+{
+    public interface IMultiplayAllocationInfo
+    {
+        public string AllocationId { get; }
+        public string EventId { get; }
+        public long ServerId { get; }
+    }
+
+    public interface IMultiplayService
+    {
+        public ServerConfig ServerConfig { get; }
+        public System.Threading.Tasks.Task<string> GetPayloadAllocationAsPlainText();
+        public System.Threading.Tasks.Task<TPayload> GetPayloadAllocationFromJsonAs<TPayload>(bool throwOnMissingMembers = false);
+        public System.Threading.Tasks.Task ReadyServerForPlayersAsync();
+        public System.Threading.Tasks.Task<IServerQueryHandler> StartServerQueryHandlerAsync(System.UInt16 maxPlayers, string serverName, string gameType, string buildId, string map);
+        public System.Threading.Tasks.Task<IServerEvents> SubscribeToServerEventsAsync(MultiplayEventCallbacks callbacks);
+        public System.Threading.Tasks.Task UnreadyServerAsync();
+    }
+
+    public interface IServerEvents
+    {
+        public MultiplayEventCallbacks Callbacks { get; }
+        public System.Threading.Tasks.Task SubscribeAsync();
+        public System.Threading.Tasks.Task UnsubscribeAsync();
+    }
+
+    public interface IServerQueryHandler : System.IDisposable
+    {
+        public string BuildId { get; set; }
+        public System.UInt16 CurrentPlayers { get; set; }
+        public string GameType { get; set; }
+        public string Map { get; set; }
+        public System.UInt16 MaxPlayers { get; set; }
+        public System.UInt16 Port { get; set; }
+        public string ServerName { get; set; }
+        public void UpdateServerCheck();
+    }
+
+    public class MultiplayAllocation : IMultiplayAllocationInfo
+    {
+        public string AllocationId { get; }
+        public string EventId { get; }
+        public long ServerId { get; }
+        public MultiplayAllocation(string eventId, long serverId, string allocationId) {}
+    }
+
+    public class MultiplayDeallocation : IMultiplayAllocationInfo
+    {
+        public string AllocationId { get; }
+        public string EventId { get; }
+        public long ServerId { get; }
+        public MultiplayDeallocation(string eventId, long serverId, string allocationId) {}
+    }
+
+    public class MultiplayError
+    {
+        public string Detail { get; }
+        public MultiplayExceptionReason Reason { get; }
+        public MultiplayError(MultiplayExceptionReason reason, string detail) {}
+    }
+
+    public class MultiplayEventCallbacks
+    {
+        public event System.Action<MultiplayAllocation> Allocate;
+        public event System.Action<MultiplayDeallocation> Deallocate;
+        public event System.Action<MultiplayError> Error;
+        public event System.Action<MultiplayServerSubscriptionState> SubscriptionStateChanged;
+        public MultiplayEventCallbacks() {}
+    }
+
+    public enum MultiplayExceptionReason
+    {
+        AlreadySubscribedToLobby = 25601,
+        AlreadyUnsubscribedFromLobby = 25602,
+        BadGateway = 25502,
+        BadRequest = 25400,
+        Conflict = 25409,
+        EntityNotFound = 25404,
+        ExpectationFailed = 25417,
+        FailedDependency = 25424,
+        Forbidden = 25403,
+        GatewayTimeout = 25504,
+        Gone = 25410,
+        HttpVersionNotSupported = 25505,
+        InsufficientStorage = 25507,
+        InternalServerError = 25500,
+        LengthRequired = 25411,
+        LobbyEventServiceConnectionError = 25604,
+        Locked = 25423,
+        LoopDetected = 25508,
+        MethodNotAllowed = 25405,
+        Misdirected = 25421,
+        NetworkAuthenticationRequired = 25511,
+        NetworkError = 25998,
+        NotAcceptable = 25406,
+        NotExtended = 25510,
+        NotImplemented = 25501,
+        PaymentRequired = 25402,
+        PreconditionFailed = 25412,
+        PreconditionRequired = 25428,
+        ProxyAuthenticationRequired = 25407,
+        RangeNotSatisfiable = 25416,
+        RateLimited = 25429,
+        RequestEntityTooLarge = 25413,
+        RequestHeaderFieldsTooLarge = 25431,
+        RequestTimeOut = 25408,
+        RequestUriTooLong = 25414,
+        ServiceUnavailable = 25503,
+        SubscriptionToLobbyLostWhileBusy = 25603,
+        Teapot = 25418,
+        TooEarly = 25425,
+        Unauthorized = 25401,
+        UnavailableForLegalReasons = 25451,
+        Unknown = 25999,
+        UnknownErrorCode = 0,
+        UnprocessableTransaction = 25422,
+        UnsupportedMediaType = 25415,
+        UpgradeRequired = 25426,
+        VariantAlsoNegotiates = 25506,
+    }
+
+    public enum MultiplayServerSubscriptionState
+    {
+        Error = 3,
+        Subscribing = 4,
+        Synced = 1,
+        Unsubscribed = 0,
+        Unsynced = 2,
+    }
+
+    public static class MultiplayService
+    {
+        public static IMultiplayService Instance { get; }
+    }
+
+    [System.Runtime.Serialization.DataContract(Name = @"server.json")] [UnityEngine.Scripting.Preserve] public class ServerConfig
+    {
+        [System.Runtime.Serialization.DataMember(EmitDefaultValue = false, IsRequired = true, Name = @"allocatedUUID")] [UnityEngine.Scripting.Preserve] public string AllocationId { get; }
+        [System.Runtime.Serialization.DataMember(EmitDefaultValue = false, IsRequired = true, Name = @"ip")] [UnityEngine.Scripting.Preserve] public string IpAddress { get; }
+        [System.Runtime.Serialization.DataMember(EmitDefaultValue = false, IsRequired = true, Name = @"port")] [UnityEngine.Scripting.Preserve] public System.UInt16 Port { get; }
+        [System.Runtime.Serialization.DataMember(EmitDefaultValue = false, IsRequired = true, Name = @"queryPort")] [UnityEngine.Scripting.Preserve] public System.UInt16 QueryPort { get; }
+        [System.Runtime.Serialization.DataMember(EmitDefaultValue = false, IsRequired = true, Name = @"serverID")] [UnityEngine.Scripting.Preserve] public long ServerId { get; }
+        [System.Runtime.Serialization.DataMember(EmitDefaultValue = false, IsRequired = true, Name = @"serverLogDir")] [UnityEngine.Scripting.Preserve] public string ServerLogDirectory { get; }
+        [UnityEngine.Scripting.Preserve] public ServerConfig(long serverId, string allocationId, System.UInt16 queryPort, System.UInt16 port, string ip, string serverLogDirectory) {}
+    }
+}
+
+namespace Unity.Services.Multiplay.Models
+{
+    [System.Runtime.Serialization.DataContract(Name = @"KeyValuePair")] [UnityEngine.Scripting.Preserve] public class KeyValuePair
+    {
+        [System.Runtime.Serialization.DataMember(EmitDefaultValue = true, IsRequired = true, Name = @"key")] [UnityEngine.Scripting.Preserve] public string Key { get; }
+        [System.Runtime.Serialization.DataMember(EmitDefaultValue = true, IsRequired = true, Name = @"value")] [UnityEngine.Scripting.Preserve] public string Value { get; }
+        [UnityEngine.Scripting.Preserve] public KeyValuePair(string key, string value) {}
+    }
+}

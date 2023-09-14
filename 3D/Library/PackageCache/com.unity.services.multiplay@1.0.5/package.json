@@ -1,0 +1,38 @@
+{
+  "name": "com.unity.services.multiplay",
+  "displayName": "Multiplay",
+  "version": "1.0.5",
+  "unity": "2020.3",
+  "description": "The Multiplay SDK provides functionality to facilitate Multiplay services.",
+  "_upm": {
+    "gameService": {
+      "genericDashboardUrl": "https://dashboard.unity3d.com/multiplay",
+      "projectDashboardUrl": "https://dashboard.unity3d.com/organizations/{0}/projects/{1}/environments/default/multiplay/overview",
+      "projectDashboardUrlType": "OrganizationKeyAndProjectGuid",
+      "useCasesUrl": "https://docs.unity.com/multiplay/shared/welcome-to-multiplay.html"
+    },
+    "changelog": "* Bugfix: Fixed an issue where editors above 2020.3 were having deserialization errors on ReadyServerForPlayersAsync calls."
+  },
+  "dependencies": {
+    "com.unity.services.core": "1.8.2",
+    "com.unity.services.wire": "1.1.4",
+    "com.unity.modules.unitywebrequest": "1.0.0",
+    "com.unity.modules.unitywebrequestassetbundle": "1.0.0",
+    "com.unity.modules.unitywebrequestaudio": "1.0.0",
+    "com.unity.modules.unitywebrequesttexture": "1.0.0",
+    "com.unity.modules.unitywebrequestwww": "1.0.0",
+    "com.unity.nuget.newtonsoft-json": "3.0.2"
+  },
+  "relatedPackages": {
+    "com.unity.services.multiplay.tests": "1.0.5"
+  },
+  "upmCi": {
+    "footprint": "bbf2eb6050db272ebf45b314eacab3a0ad885018"
+  },
+  "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.services.multiplay@1.0/manual/index.html",
+  "repository": {
+    "url": "https://github.cds.internal.unity3d.com/unity/operate-services-sdk.git",
+    "type": "git",
+    "revision": "1f90025a1231b9b28b28a774bce11c38c1a209f6"
+  }
+}

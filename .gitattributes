@@ -11,3 +11,4 @@
 *.xcf filter=lfs diff=lfs merge=lfs -text
 *.jpg filter=lfs diff=lfs merge=lfs -text
 *.dylib filter=lfs diff=lfs merge=lfs -text
+*.tar.7z filter=lfs diff=lfs merge=lfs -text
