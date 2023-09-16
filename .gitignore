@@ -1,2 +1,9 @@
-.DS_Store
+Temp/
+BurstCache/
+PackageCache/
+ShaderCache/
+StateCache/
+PlayerDataCache/
+
 .vscode/
+*.DS_Store
