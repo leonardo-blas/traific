@@ -96,6 +96,7 @@
 -define:NET_STANDARD_2_1
 -define:NETSTANDARD
 -define:NETSTANDARD2_1
+-define:UNITY_PRO_LICENSE
 -define:ENABLE_CUSTOM_RENDER_TEXTURE
 -define:ENABLE_DIRECTOR
 -define:ENABLE_LOCALIZATION
@@ -357,8 +358,6 @@
 "Assets/Scripts/AllSpeedometersDisplay.cs"
 "Assets/Scripts/Speedometer.cs"
 "Assets/Scripts/SpeedometerDisplay.cs"
-"Assets/Scripts/Test2.cs"
-"Assets/Scripts/Test3.cs"
 "Assets/SpawnPlayers.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs"

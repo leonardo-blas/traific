@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{4ff6b31d-fd68-53a6-1e10-9124102fc176}</ProjectGuid>
+    <ProjectGuid>{655f378b-396b-f91d-6316-e899a69e55d6}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -22,7 +22,7 @@
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
     <OutputPath>Temp\bin\Debug\</OutputPath>
-    <DefineConstants>DEBUG;TRACE;UNITY_2022_3_2;UNITY_2022_3;UNITY_2022;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_2021_1_OR_NEWER;UNITY_2021_2_OR_NEWER;UNITY_2021_3_OR_NEWER;UNITY_2022_1_OR_NEWER;UNITY_2022_2_OR_NEWER;UNITY_2022_3_OR_NEWER;PLATFORM_ARCH_64;UNITY_64;UNITY_INCLUDE_TESTS;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_VIRTUALTEXTURING;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_NATIVE_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_EDITOR_GAME_SERVICES;ENABLE_UNITY_GAME_SERVICES_ANALYTICS_SUPPORT;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_GENERATE_NATIVE_PLUGINS_FOR_ASSEMBLIES_API;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;ENABLE_MANAGED_UNITYTLS;INCLUDE_DYNAMIC_GI;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_VIDEO;ENABLE_ACCELERATOR_CLIENT_DEBUGGING;ENABLE_NAVIGATION_PACKAGE_DEBUG_VISUALIZATION;ENABLE_NAVIGATION_HEIGHTMESH_RUNTIME_SUPPORT;ENABLE_NAVIGATION_UI_REQUIRES_PACKAGE;PLATFORM_STANDALONE;TEXTCORE_1_0_OR_NEWER;PLATFORM_STANDALONE_OSX;UNITY_STANDALONE_OSX;UNITY_STANDALONE;ENABLE_GAMECENTER;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_CLUSTER_SYNC;ENABLE_CLUSTERINPUT;ENABLE_SPATIALTRACKING;PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP;ENABLE_MONO;NET_4_6;NET_UNITY_4_8;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_OSX;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_LEGACY_INPUT_MANAGER;TEXTCORE_FONT_ENGINE_1_5_OR_NEWER;PHOTON_UNITY_NETWORKING;PUN_2_0_OR_NEWER;PUN_2_OR_NEWER;PUN_2_19_OR_NEWER;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER;UNITY_EDITOR_ONLY_COMPILATION;NET_STANDARD_2_0;NET_STANDARD;NET_STANDARD_2_1;NETSTANDARD;NETSTANDARD2_1</DefineConstants>
+    <DefineConstants>DEBUG;TRACE;UNITY_2022_3_2;UNITY_2022_3;UNITY_2022;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_2021_1_OR_NEWER;UNITY_2021_2_OR_NEWER;UNITY_2021_3_OR_NEWER;UNITY_2022_1_OR_NEWER;UNITY_2022_2_OR_NEWER;UNITY_2022_3_OR_NEWER;PLATFORM_ARCH_64;UNITY_64;UNITY_INCLUDE_TESTS;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_VIRTUALTEXTURING;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_NATIVE_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_EDITOR_GAME_SERVICES;ENABLE_UNITY_GAME_SERVICES_ANALYTICS_SUPPORT;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_GENERATE_NATIVE_PLUGINS_FOR_ASSEMBLIES_API;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;ENABLE_MANAGED_UNITYTLS;INCLUDE_DYNAMIC_GI;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_VIDEO;ENABLE_ACCELERATOR_CLIENT_DEBUGGING;ENABLE_NAVIGATION_PACKAGE_DEBUG_VISUALIZATION;ENABLE_NAVIGATION_HEIGHTMESH_RUNTIME_SUPPORT;ENABLE_NAVIGATION_UI_REQUIRES_PACKAGE;PLATFORM_STANDALONE;TEXTCORE_1_0_OR_NEWER;PLATFORM_STANDALONE_OSX;UNITY_STANDALONE_OSX;UNITY_STANDALONE;ENABLE_GAMECENTER;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_CLUSTER_SYNC;ENABLE_CLUSTERINPUT;ENABLE_SPATIALTRACKING;PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP;ENABLE_MONO;NET_4_6;NET_UNITY_4_8;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_OSX;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;UNITY_PRO_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_LEGACY_INPUT_MANAGER;TEXTCORE_FONT_ENGINE_1_5_OR_NEWER;PHOTON_UNITY_NETWORKING;PUN_2_0_OR_NEWER;PUN_2_OR_NEWER;PUN_2_19_OR_NEWER;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER;UNITY_EDITOR_ONLY_COMPILATION;NET_STANDARD_2_0;NET_STANDARD;NET_STANDARD_2_1;NETSTANDARD;NETSTANDARD2_1</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <NoWarn>0169</NoWarn>
@@ -303,31 +303,31 @@
         <HintPath>/Applications/Unity/Hub/Editor/2022.3.2f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.YamlDotNet">
-        <HintPath>/Users/leonardoblas/Desktop/kart-files/kart-dev/CAR_SIMULATOR/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/2D (legacy)/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Collections.LowLevel.ILSupport">
-        <HintPath>/Users/leonardoblas/Desktop/kart-files/kart-dev/CAR_SIMULATOR/Library/PackageCache/com.unity.collections@1.2.4/Unity.Collections.LowLevel.ILSupport/Unity.Collections.LowLevel.ILSupport.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/2D (legacy)/Library/PackageCache/com.unity.collections@1.2.4/Unity.Collections.LowLevel.ILSupport/Unity.Collections.LowLevel.ILSupport.dll</HintPath>
     </Reference>
     <Reference Include="websocket-sharp">
-        <HintPath>/Users/leonardoblas/Desktop/kart-files/kart-dev/CAR_SIMULATOR/Assets/Photon/PhotonLibs/WebSocket/websocket-sharp.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/2D (legacy)/Assets/Photon/PhotonLibs/WebSocket/websocket-sharp.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.IonicZip">
-        <HintPath>/Users/leonardoblas/Desktop/kart-files/kart-dev/CAR_SIMULATOR/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/2D (legacy)/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
-        <HintPath>/Users/leonardoblas/Desktop/kart-files/kart-dev/CAR_SIMULATOR/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/2D (legacy)/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Photon3Unity3D">
-        <HintPath>/Users/leonardoblas/Desktop/kart-files/kart-dev/CAR_SIMULATOR/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/2D (legacy)/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.TextureAssets">
-        <HintPath>/Users/leonardoblas/Desktop/kart-files/kart-dev/CAR_SIMULATOR/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/EditorAssetResources/Unity.VisualScripting.TextureAssets.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/2D (legacy)/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/EditorAssetResources/Unity.VisualScripting.TextureAssets.dll</HintPath>
     </Reference>
     <Reference Include="Mono.Cecil">
-        <HintPath>/Users/leonardoblas/Desktop/kart-files/kart-dev/CAR_SIMULATOR/Library/PackageCache/com.unity.nuget.mono-cecil@1.11.4/Mono.Cecil.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/2D (legacy)/Library/PackageCache/com.unity.nuget.mono-cecil@1.11.4/Mono.Cecil.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-        <HintPath>/Users/leonardoblas/Desktop/kart-files/kart-dev/CAR_SIMULATOR/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/2D (legacy)/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
         <HintPath>/Applications/Unity/Hub/Editor/2022.3.2f1/Unity.app/Contents/UnityReferenceAssemblies/unity-4.8-api/mscorlib.dll</HintPath>
@@ -705,217 +705,217 @@
         <HintPath>/Applications/Unity/Hub/Editor/2022.3.2f1/Unity.app/Contents/UnityReferenceAssemblies/unity-4.8-api/Facades/netstandard.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.TestRunner">
-        <HintPath>/Users/leonardoblas/Desktop/kart-files/kart-dev/CAR_SIMULATOR/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/2D (legacy)/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TestRunner">
-        <HintPath>/Users/leonardoblas/Desktop/kart-files/kart-dev/CAR_SIMULATOR/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/2D (legacy)/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.IK.Runtime">
-        <HintPath>/Users/leonardoblas/Desktop/kart-files/kart-dev/CAR_SIMULATOR/Library/ScriptAssemblies/Unity.2D.IK.Runtime.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/2D (legacy)/Library/ScriptAssemblies/Unity.2D.IK.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.AI.Navigation">
-        <HintPath>/Users/leonardoblas/Desktop/kart-files/kart-dev/CAR_SIMULATOR/Library/ScriptAssemblies/Unity.AI.Navigation.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/2D (legacy)/Library/ScriptAssemblies/Unity.AI.Navigation.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst.Editor">
-        <HintPath>/Users/leonardoblas/Desktop/kart-files/kart-dev/CAR_SIMULATOR/Library/ScriptAssemblies/Unity.Burst.Editor.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/2D (legacy)/Library/ScriptAssemblies/Unity.Burst.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Common.Path.Editor">
-        <HintPath>/Users/leonardoblas/Desktop/kart-files/kart-dev/CAR_SIMULATOR/Library/ScriptAssemblies/Unity.2D.Common.Path.Editor.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/2D (legacy)/Library/ScriptAssemblies/Unity.2D.Common.Path.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.PixelPerfect.Editor">
-        <HintPath>/Users/leonardoblas/Desktop/kart-files/kart-dev/CAR_SIMULATOR/Library/ScriptAssemblies/Unity.2D.PixelPerfect.Editor.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/2D (legacy)/Library/ScriptAssemblies/Unity.2D.PixelPerfect.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Networking.Transport">
-        <HintPath>/Users/leonardoblas/Desktop/kart-files/kart-dev/CAR_SIMULATOR/Library/ScriptAssemblies/Unity.Networking.Transport.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/2D (legacy)/Library/ScriptAssemblies/Unity.Networking.Transport.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-        <HintPath>/Users/leonardoblas/Desktop/kart-files/kart-dev/CAR_SIMULATOR/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/2D (legacy)/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Aseprite.Common">
-        <HintPath>/Users/leonardoblas/Desktop/kart-files/kart-dev/CAR_SIMULATOR/Library/ScriptAssemblies/Unity.2D.Aseprite.Common.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/2D (legacy)/Library/ScriptAssemblies/Unity.2D.Aseprite.Common.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Sprite.Editor">
-        <HintPath>/Users/leonardoblas/Desktop/kart-files/kart-dev/CAR_SIMULATOR/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/2D (legacy)/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Flow">
-        <HintPath>/Users/leonardoblas/Desktop/kart-files/kart-dev/CAR_SIMULATOR/Library/ScriptAssemblies/Unity.VisualScripting.Flow.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/2D (legacy)/Library/ScriptAssemblies/Unity.VisualScripting.Flow.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Netcode.Components">
-        <HintPath>/Users/leonardoblas/Desktop/kart-files/kart-dev/CAR_SIMULATOR/Library/ScriptAssemblies/Unity.Netcode.Components.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/2D (legacy)/Library/ScriptAssemblies/Unity.Netcode.Components.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Mathematics.Editor">
-        <HintPath>/Users/leonardoblas/Desktop/kart-files/kart-dev/CAR_SIMULATOR/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/2D (legacy)/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Tilemap.Extras.Editor">
-        <HintPath>/Users/leonardoblas/Desktop/kart-files/kart-dev/CAR_SIMULATOR/Library/ScriptAssemblies/Unity.2D.Tilemap.Extras.Editor.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/2D (legacy)/Library/ScriptAssemblies/Unity.2D.Tilemap.Extras.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Netcode.Editor">
-        <HintPath>/Users/leonardoblas/Desktop/kart-files/kart-dev/CAR_SIMULATOR/Library/ScriptAssemblies/Unity.Netcode.Editor.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/2D (legacy)/Library/ScriptAssemblies/Unity.Netcode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Collections">
-        <HintPath>/Users/leonardoblas/Desktop/kart-files/kart-dev/CAR_SIMULATOR/Library/ScriptAssemblies/Unity.Collections.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/2D (legacy)/Library/ScriptAssemblies/Unity.Collections.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Netcode.Runtime">
-        <HintPath>/Users/leonardoblas/Desktop/kart-files/kart-dev/CAR_SIMULATOR/Library/ScriptAssemblies/Unity.Netcode.Runtime.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/2D (legacy)/Library/ScriptAssemblies/Unity.Netcode.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.SpriteShape.Runtime">
-        <HintPath>/Users/leonardoblas/Desktop/kart-files/kart-dev/CAR_SIMULATOR/Library/ScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/2D (legacy)/Library/ScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Netcode.Editor.PackageChecker">
-        <HintPath>/Users/leonardoblas/Desktop/kart-files/kart-dev/CAR_SIMULATOR/Library/ScriptAssemblies/Unity.Netcode.Editor.PackageChecker.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/2D (legacy)/Library/ScriptAssemblies/Unity.Netcode.Editor.PackageChecker.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.PixelPerfect">
-        <HintPath>/Users/leonardoblas/Desktop/kart-files/kart-dev/CAR_SIMULATOR/Library/ScriptAssemblies/Unity.2D.PixelPerfect.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/2D (legacy)/Library/ScriptAssemblies/Unity.2D.PixelPerfect.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-        <HintPath>/Users/leonardoblas/Desktop/kart-files/kart-dev/CAR_SIMULATOR/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/2D (legacy)/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Aseprite.Editor">
-        <HintPath>/Users/leonardoblas/Desktop/kart-files/kart-dev/CAR_SIMULATOR/Library/ScriptAssemblies/Unity.2D.Aseprite.Editor.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/2D (legacy)/Library/ScriptAssemblies/Unity.2D.Aseprite.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.AI.Navigation.Editor.ConversionSystem">
-        <HintPath>/Users/leonardoblas/Desktop/kart-files/kart-dev/CAR_SIMULATOR/Library/ScriptAssemblies/Unity.AI.Navigation.Editor.ConversionSystem.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/2D (legacy)/Library/ScriptAssemblies/Unity.AI.Navigation.Editor.ConversionSystem.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-        <HintPath>/Users/leonardoblas/Desktop/kart-files/kart-dev/CAR_SIMULATOR/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/2D (legacy)/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="PsdPlugin">
-        <HintPath>/Users/leonardoblas/Desktop/kart-files/kart-dev/CAR_SIMULATOR/Library/ScriptAssemblies/PsdPlugin.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/2D (legacy)/Library/ScriptAssemblies/PsdPlugin.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst">
-        <HintPath>/Users/leonardoblas/Desktop/kart-files/kart-dev/CAR_SIMULATOR/Library/ScriptAssemblies/Unity.Burst.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/2D (legacy)/Library/ScriptAssemblies/Unity.Burst.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-        <HintPath>/Users/leonardoblas/Desktop/kart-files/kart-dev/CAR_SIMULATOR/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/2D (legacy)/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Shared.Editor">
-        <HintPath>/Users/leonardoblas/Desktop/kart-files/kart-dev/CAR_SIMULATOR/Library/ScriptAssemblies/Unity.VisualScripting.Shared.Editor.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/2D (legacy)/Library/ScriptAssemblies/Unity.VisualScripting.Shared.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualStudio.Editor">
-        <HintPath>/Users/leonardoblas/Desktop/kart-files/kart-dev/CAR_SIMULATOR/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/2D (legacy)/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-        <HintPath>/Users/leonardoblas/Desktop/kart-files/kart-dev/CAR_SIMULATOR/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/2D (legacy)/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Core">
-        <HintPath>/Users/leonardoblas/Desktop/kart-files/kart-dev/CAR_SIMULATOR/Library/ScriptAssemblies/Unity.VisualScripting.Core.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/2D (legacy)/Library/ScriptAssemblies/Unity.VisualScripting.Core.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Animation.Runtime">
-        <HintPath>/Users/leonardoblas/Desktop/kart-files/kart-dev/CAR_SIMULATOR/Library/ScriptAssemblies/Unity.2D.Animation.Runtime.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/2D (legacy)/Library/ScriptAssemblies/Unity.2D.Animation.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Core.Editor">
-        <HintPath>/Users/leonardoblas/Desktop/kart-files/kart-dev/CAR_SIMULATOR/Library/ScriptAssemblies/Unity.VisualScripting.Core.Editor.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/2D (legacy)/Library/ScriptAssemblies/Unity.VisualScripting.Core.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-        <HintPath>/Users/leonardoblas/Desktop/kart-files/kart-dev/CAR_SIMULATOR/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/2D (legacy)/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Tilemap.Extras">
-        <HintPath>/Users/leonardoblas/Desktop/kart-files/kart-dev/CAR_SIMULATOR/Library/ScriptAssemblies/Unity.2D.Tilemap.Extras.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/2D (legacy)/Library/ScriptAssemblies/Unity.2D.Tilemap.Extras.dll</HintPath>
     </Reference>
     <Reference Include="Unity.InternalAPIEditorBridge.005">
-        <HintPath>/Users/leonardoblas/Desktop/kart-files/kart-dev/CAR_SIMULATOR/Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.005.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/2D (legacy)/Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.005.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Flow.Editor">
-        <HintPath>/Users/leonardoblas/Desktop/kart-files/kart-dev/CAR_SIMULATOR/Library/ScriptAssemblies/Unity.VisualScripting.Flow.Editor.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/2D (legacy)/Library/ScriptAssemblies/Unity.VisualScripting.Flow.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.InternalAPIEngineBridge.001">
-        <HintPath>/Users/leonardoblas/Desktop/kart-files/kart-dev/CAR_SIMULATOR/Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/2D (legacy)/Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Common.Runtime">
-        <HintPath>/Users/leonardoblas/Desktop/kart-files/kart-dev/CAR_SIMULATOR/Library/ScriptAssemblies/Unity.2D.Common.Runtime.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/2D (legacy)/Library/ScriptAssemblies/Unity.2D.Common.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-        <HintPath>/Users/leonardoblas/Desktop/kart-files/kart-dev/CAR_SIMULATOR/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/2D (legacy)/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.SettingsProvider.Editor">
-        <HintPath>/Users/leonardoblas/Desktop/kart-files/kart-dev/CAR_SIMULATOR/Library/ScriptAssemblies/Unity.VisualScripting.SettingsProvider.Editor.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/2D (legacy)/Library/ScriptAssemblies/Unity.VisualScripting.SettingsProvider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.InternalAPIEditorBridge.001">
-        <HintPath>/Users/leonardoblas/Desktop/kart-files/kart-dev/CAR_SIMULATOR/Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.001.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/2D (legacy)/Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.001.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Psdimporter.Editor">
-        <HintPath>/Users/leonardoblas/Desktop/kart-files/kart-dev/CAR_SIMULATOR/Library/ScriptAssemblies/Unity.2D.Psdimporter.Editor.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/2D (legacy)/Library/ScriptAssemblies/Unity.2D.Psdimporter.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.AI.Navigation.Updater">
-        <HintPath>/Users/leonardoblas/Desktop/kart-files/kart-dev/CAR_SIMULATOR/Library/ScriptAssemblies/Unity.AI.Navigation.Updater.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/2D (legacy)/Library/ScriptAssemblies/Unity.AI.Navigation.Updater.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.State.Editor">
-        <HintPath>/Users/leonardoblas/Desktop/kart-files/kart-dev/CAR_SIMULATOR/Library/ScriptAssemblies/Unity.VisualScripting.State.Editor.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/2D (legacy)/Library/ScriptAssemblies/Unity.VisualScripting.State.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Mathematics">
-        <HintPath>/Users/leonardoblas/Desktop/kart-files/kart-dev/CAR_SIMULATOR/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/2D (legacy)/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Common.Editor">
-        <HintPath>/Users/leonardoblas/Desktop/kart-files/kart-dev/CAR_SIMULATOR/Library/ScriptAssemblies/Unity.2D.Common.Editor.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/2D (legacy)/Library/ScriptAssemblies/Unity.2D.Common.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Networking.Editor">
-        <HintPath>/Users/leonardoblas/Desktop/kart-files/kart-dev/CAR_SIMULATOR/Library/ScriptAssemblies/Unity.Networking.Editor.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/2D (legacy)/Library/ScriptAssemblies/Unity.Networking.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-        <HintPath>/Users/leonardoblas/Desktop/kart-files/kart-dev/CAR_SIMULATOR/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/2D (legacy)/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.AI.Navigation.Editor">
-        <HintPath>/Users/leonardoblas/Desktop/kart-files/kart-dev/CAR_SIMULATOR/Library/ScriptAssemblies/Unity.AI.Navigation.Editor.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/2D (legacy)/Library/ScriptAssemblies/Unity.AI.Navigation.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.State">
-        <HintPath>/Users/leonardoblas/Desktop/kart-files/kart-dev/CAR_SIMULATOR/Library/ScriptAssemblies/Unity.VisualScripting.State.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/2D (legacy)/Library/ScriptAssemblies/Unity.VisualScripting.State.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.SpriteShape.Editor">
-        <HintPath>/Users/leonardoblas/Desktop/kart-files/kart-dev/CAR_SIMULATOR/Library/ScriptAssemblies/Unity.2D.SpriteShape.Editor.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/2D (legacy)/Library/ScriptAssemblies/Unity.2D.SpriteShape.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Tilemap.Editor">
-        <HintPath>/Users/leonardoblas/Desktop/kart-files/kart-dev/CAR_SIMULATOR/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/2D (legacy)/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Animation.Editor">
-        <HintPath>/Users/leonardoblas/Desktop/kart-files/kart-dev/CAR_SIMULATOR/Library/ScriptAssemblies/Unity.2D.Animation.Editor.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/2D (legacy)/Library/ScriptAssemblies/Unity.2D.Animation.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.IK.Editor">
-        <HintPath>/Users/leonardoblas/Desktop/kart-files/kart-dev/CAR_SIMULATOR/Library/ScriptAssemblies/Unity.2D.IK.Editor.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/2D (legacy)/Library/ScriptAssemblies/Unity.2D.IK.Editor.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{8717bb37-e194-b56c-a8cb-58bf421b597f}</Project>
+      <Project>{5f602792-5ead-a01f-9809-61446890f6be}</Project>
       <Name>Assembly-CSharp</Name>
     </ProjectReference>
     <ProjectReference Include="PhotonUnityNetworking.Editor.csproj">
-      <Project>{2152228e-ea79-0148-c9c6-57f053ecb00e}</Project>
+      <Project>{1553e2ea-b6f6-d6a7-858b-4fb4d7babaae}</Project>
       <Name>PhotonUnityNetworking.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.csproj">
-      <Project>{6ccd3403-f2c9-8863-832a-7c6299ff8644}</Project>
+      <Project>{00bb13c0-fbe2-a443-dd5d-452dee93a9c3}</Project>
       <Name>PhotonUnityNetworking.Utilities.PhotonPlayer.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="PunDemos.DemoSlotcarEditor.csproj">
-      <Project>{d58b9c1b-fbdc-308f-7598-327caa1fff3a}</Project>
+      <Project>{7466ce02-01b7-ae1d-3866-a8568d6dd785}</Project>
       <Name>PunDemos.DemoSlotcarEditor</Name>
     </ProjectReference>
     <ProjectReference Include="PhotonChat.csproj">
-      <Project>{f472da3d-65a8-d3c4-e964-e1b2a7f30beb}</Project>
+      <Project>{843b28b2-f162-055e-1aa8-49d165bf8bf5}</Project>
       <Name>PhotonChat</Name>
     </ProjectReference>
     <ProjectReference Include="PhotonUnityNetworking.csproj">
-      <Project>{87ee3e9c-19bd-640f-b03f-d32ef279bc57}</Project>
+      <Project>{fe73e7ef-7ddf-a351-945d-37d10aef7564}</Project>
       <Name>PhotonUnityNetworking</Name>
     </ProjectReference>
     <ProjectReference Include="PhotonUnityNetworking.Utilities.Culling.Editor.csproj">
-      <Project>{61884674-bc31-c22d-e856-38ccbb37ac49}</Project>
+      <Project>{3c8bdca9-c027-eccc-fd4a-1656fe6538d5}</Project>
       <Name>PhotonUnityNetworking.Utilities.Culling.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="PhotonUnityNetworking.Demos.csproj">
-      <Project>{5480447e-cda3-2f82-6b2a-b3dab617c320}</Project>
+      <Project>{9b484e3c-ebc6-8d3f-3df6-6a71d12e9b07}</Project>
       <Name>PhotonUnityNetworking.Demos</Name>
     </ProjectReference>
     <ProjectReference Include="PhotonUnityNetworking.Utilities.csproj">
-      <Project>{eff4b187-2d62-d254-14cf-5e8072c6af6e}</Project>
+      <Project>{fa5e2f01-45e1-37ea-29a4-42f47ecec5e7}</Project>
       <Name>PhotonUnityNetworking.Utilities</Name>
     </ProjectReference>
     <ProjectReference Include="PhotonRealtime.csproj">
-      <Project>{27d04fa3-42e2-a803-7ffa-79ea61367d3d}</Project>
+      <Project>{5a532e02-4040-0c21-3ac9-9a016a181a49}</Project>
       <Name>PhotonRealtime</Name>
     </ProjectReference>
     <ProjectReference Include="PunDemos.DemoHubEditor.csproj">
-      <Project>{7f4164dd-99b9-b1c2-6bff-ee4adfdb0650}</Project>
+      <Project>{f7be4b93-b75d-f00f-0f53-8912615ba89a}</Project>
       <Name>PunDemos.DemoHubEditor</Name>
     </ProjectReference>
   </ItemGroup>

@@ -1,0 +1,624 @@
+Unity Editor version:    2022.3.9f1 (ea401c316338)
+Branch:                  2022.3/staging
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 13.3.1 (Build 22E261)
+Darwin version:          22.4.0
+Architecture:            arm64
+Running under Rosetta:   NO
+Available memory:        16384 MB
+Using pre-set license
+Pro License: YES
+
+COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2022.3.9f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/leonardoblas/Desktop/driving-simulator 2/3D
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+58749
+Successfully changed project path to: /Users/leonardoblas/Desktop/driving-simulator 2/3D
+/Users/leonardoblas/Desktop/driving-simulator 2/3D
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [8607423296] Host "[IP] 192.168.5.88 [Port] 0 [Flags] 2 [Guid] 1091708842 [EditorId] 1091708842 [Version] 1048832 [Id] OSXEditor(0,Leonardos-Laptop.local) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [8607423296] Host "[IP] 192.168.5.88 [Port] 0 [Flags] 2 [Guid] 1091708842 [EditorId] 1091708842 [Version] 1048832 [Id] OSXEditor(0,Leonardos-Laptop.local) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[Physics::Module] Initialized MultithreadedJobDispatcher with 9 workers.
+Refreshing native plugins compatible for Editor in 19.14 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.9f1 (ea401c316338)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2022.3.9f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/leonardoblas/Desktop/driving-simulator 2/3D/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+ preferred device: Apple M1 Pro (high power)
+Metal devices available: 1
+0: Apple M1 Pro (high power)
+Using device Apple M1 Pro (high power)
+Initializing Metal device caps: Apple M1 Pro
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2022.3.9f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2022.3.9f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos'
+Mono config path = '/Applications/Unity/Hub/Editor/2022.3.9f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56042
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2022.3.9f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2022.3.9f1/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.006196 seconds.
+- Loaded All Assemblies, in  0.273 seconds
+Native extension for LinuxStandalone target not found
+Native extension for OSXStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.171 seconds
+Domain Reload Profiling: 444ms
+	BeginReloadAssembly (98ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (0ms)
+	RebuildCommonClasses (26ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (36ms)
+	LoadAllAssembliesAndSetupDomain (105ms)
+		LoadAssemblies (98ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (104ms)
+			TypeCache.Refresh (95ms)
+				TypeCache.ScanAssembly (84ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (171ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (130ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (27ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (1ms)
+			ProcessInitializeOnLoadAttributes (70ms)
+			ProcessInitializeOnLoadMethodAttributes (27ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  0.452 seconds
+Refreshing native plugins compatible for Editor in 1.79 ms, found 2 plugins.
+Native extension for LinuxStandalone target not found
+Native extension for OSXStandalone target not found
+[MODES] ModeService[none].Initialize
+[MODES] ModeService[none].LoadModes
+[MODES] Loading mode Default (0) for mode-current-id-3D
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.416 seconds
+Domain Reload Profiling: 868ms
+	BeginReloadAssembly (79ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (3ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (17ms)
+	RebuildCommonClasses (23ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (32ms)
+	LoadAllAssembliesAndSetupDomain (310ms)
+		LoadAssemblies (223ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (121ms)
+			TypeCache.Refresh (106ms)
+				TypeCache.ScanAssembly (90ms)
+			ScanForSourceGeneratedMonoScriptInfo (11ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (416ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (313ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (21ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (41ms)
+			ProcessInitializeOnLoadAttributes (230ms)
+			ProcessInitializeOnLoadMethodAttributes (17ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (2ms)
+Launching external process: /Applications/Unity/Hub/Editor/2022.3.9f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.05 seconds
+Refreshing native plugins compatible for Editor in 2.07 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3827 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 112 unused Assets / (27.2 MB). Loaded Objects now: 4241.
+Memory consumption went from 201.2 MB to 174.0 MB.
+Total: 23.637833 ms (FindLiveObjects: 0.143500 ms CreateObjectMapping: 0.048958 ms MarkObjects: 4.031333 ms  DeleteObjects: 19.413292 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 756ad292c208cfabdd7b50bc23989ffe -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1064335.968656 seconds.
+  path: Assets/Karting/Tutorials/Tutorial Project Settings.asset
+  artifactKey: Guid(7e7ff6d40365f43b282454f6d57a0ead) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Tutorials/Tutorial Project Settings.asset using Guid(7e7ff6d40365f43b282454f6d57a0ead) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'caa2bb016ceae1e804516cca47de9d0d') in 0.022069 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Karting/Tutorials/DialogHeader_Kart.png
+  artifactKey: Guid(128afd373c6f34f43bd58b7bd0815ec9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Tutorials/DialogHeader_Kart.png using Guid(128afd373c6f34f43bd58b7bd0815ec9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e653fdb2f487c4ebd7033028fd4d1f2') in 0.121545 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 1.004034 seconds.
+  path: Assets/Karting/Tutorials/Tutorial1/Walkthrough1.asset
+  artifactKey: Guid(92d21b44a68004daebe1f6c4e03b487a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Tutorials/Tutorial1/Walkthrough1.asset using Guid(92d21b44a68004daebe1f6c4e03b487a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f394ade86c45c2c6c61126f098705689') in 0.058346 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 140
+========================================================================
+Received Import Request.
+  Time since last request: 0.000052 seconds.
+  path: Assets/Karting/Tutorials/Tutorial1/WT-Select-Property.mov
+  artifactKey: Guid(07194c5207fd848ddab5351079a420c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Tutorials/Tutorial1/WT-Select-Property.mov using Guid(07194c5207fd848ddab5351079a420c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '110a62cdd930c38de0fb3966f171708c') in 0.000789 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/Karting/Tutorials/Tutorial1/Walkthrough1-09-Exit-Play.asset
+  artifactKey: Guid(d18d9b2a07d623d42a4c1c8da3c46ee7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Tutorials/Tutorial1/Walkthrough1-09-Exit-Play.asset using Guid(d18d9b2a07d623d42a4c1c8da3c46ee7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a370fe1f91980e3e346c49dbecfc37ba') in 0.000983 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 5
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Karting/Tutorials/Tutorial1/Walkthrough1-04-Hierarchy-Intro.asset
+  artifactKey: Guid(5ff93266ed71246baad6bdcff5c8310b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Tutorials/Tutorial1/Walkthrough1-04-Hierarchy-Intro.asset using Guid(5ff93266ed71246baad6bdcff5c8310b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '769adc4f871ccba522d0e8b178b83d1e') in 0.000767 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000091 seconds.
+  path: Assets/Karting/Tutorials/Tutorial1/Walkthrough1-06-Inspector-Intro.asset
+  artifactKey: Guid(be5d8efcae5a6e942bed0ce1ce2e9eba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Tutorials/Tutorial1/Walkthrough1-06-Inspector-Intro.asset using Guid(be5d8efcae5a6e942bed0ce1ce2e9eba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2db13fe814a06456a79c6814ee26119') in 0.000989 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000096 seconds.
+  path: Assets/Karting/Tutorials/Tutorial1/WT1-GameObject.png
+  artifactKey: Guid(e8cc75cb0bdf34f5e86d22cfc8994332) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Tutorials/Tutorial1/WT1-GameObject.png using Guid(e8cc75cb0bdf34f5e86d22cfc8994332) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0e947e251d573e10f186ab9c4ee72fb') in 0.003433 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 3.056310 seconds.
+  path: Assets/Karting/Tutorials/Tutorial2/Walkthrough2.asset
+  artifactKey: Guid(83255933b1f9a13428ca582620d979c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Tutorials/Tutorial2/Walkthrough2.asset using Guid(83255933b1f9a13428ca582620d979c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8e4e0d1aa818dc0c1d1e06b8ac57865') in 0.047777 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 140
+========================================================================
+Received Import Request.
+  Time since last request: 0.000083 seconds.
+  path: Assets/Karting/Tutorials/Tutorial2/Walkthrough2-02-Select-Asset.asset
+  artifactKey: Guid(b09e6b5adfe5a4ff29595fc4e8406708) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Tutorials/Tutorial2/Walkthrough2-02-Select-Asset.asset using Guid(b09e6b5adfe5a4ff29595fc4e8406708) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '601b55ae8fe3271c11a159058df158ac') in 0.001051 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 5
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/Karting/Tutorials/Tutorial2/Walkthrough2-03-Select-Material.asset
+  artifactKey: Guid(c4b2d55732e7d4c11b1ec9c752f290bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Tutorials/Tutorial2/Walkthrough2-03-Select-Material.asset using Guid(c4b2d55732e7d4c11b1ec9c752f290bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a31f76dada5d0cf64684252600fc73b9') in 0.000963 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Assets/Karting/Tutorials/Tutorial2/WT-Change-Color.mov
+  artifactKey: Guid(b6cee483e6a2d4b6c90e422699764588) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Tutorials/Tutorial2/WT-Change-Color.mov using Guid(b6cee483e6a2d4b6c90e422699764588) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13cfe5485fea55369e45b757c1174c95') in 0.000414 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/Karting/Tutorials/Tutorial2/Walkthrough2-02b-Frame-Asset.asset
+  artifactKey: Guid(b92311c12b6844296994d1de18be3d7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Tutorials/Tutorial2/Walkthrough2-02b-Frame-Asset.asset using Guid(b92311c12b6844296994d1de18be3d7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e608e0885f417064c3f6b2e7ad556c42') in 0.000888 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 5
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/Karting/Tutorials/Tutorial2/WT-Select-and-Frame.mov
+  artifactKey: Guid(e292ffe4f11dd4130a4095e4e7879fe2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Tutorials/Tutorial2/WT-Select-and-Frame.mov using Guid(e292ffe4f11dd4130a4095e4e7879fe2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a42db5da36889e2419acb70dcd444b5') in 0.000515 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000092 seconds.
+  path: Assets/Karting/Tutorials/Tutorial2/Walkthrough2-06-Play-Game.asset
+  artifactKey: Guid(9d468684850864dd69745d16bb812c63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Tutorials/Tutorial2/Walkthrough2-06-Play-Game.asset using Guid(9d468684850864dd69745d16bb812c63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c89bd7bb35d9829bca8fb491a9c239a6') in 0.000874 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 5
+========================================================================
+Received Import Request.
+  Time since last request: 0.000129 seconds.
+  path: Assets/Karting/Tutorials/Tutorial2/Walkthrough2-07-Exit-Play.asset
+  artifactKey: Guid(25b32eae891f6b34dae30855cf0cfe77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Tutorials/Tutorial2/Walkthrough2-07-Exit-Play.asset using Guid(25b32eae891f6b34dae30855cf0cfe77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e30ecea18547fa46e91932d6fe07236') in 0.000880 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 5
+========================================================================
+Received Import Request.
+  Time since last request: 1.162042 seconds.
+  path: Assets/Karting/Tutorials/Tutorial3/Walkthrough3.asset
+  artifactKey: Guid(ef019b20e49b14cfca4e98ecf5fd345d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Tutorials/Tutorial3/Walkthrough3.asset using Guid(ef019b20e49b14cfca4e98ecf5fd345d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '052599f95eaf7685684f7f93f7ea9c7b') in 0.046845 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 140
+========================================================================
+Received Import Request.
+  Time since last request: 0.000071 seconds.
+  path: Assets/Karting/Tutorials/Tutorial3/Walkthrough3-06-Zoom-Scene.asset
+  artifactKey: Guid(ecbde9254a26a49978e5df0fdf89ec73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Tutorials/Tutorial3/Walkthrough3-06-Zoom-Scene.asset using Guid(ecbde9254a26a49978e5df0fdf89ec73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fbe5e94eed0fe9a0450c0f44095e6de') in 0.001496 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 5
+========================================================================
+Received Import Request.
+  Time since last request: 0.000113 seconds.
+  path: Assets/Karting/Tutorials/Tutorial3/WT-Select-Hand-Tool.mov
+  artifactKey: Guid(681d4800f4c8b48baa973ff866a465a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Tutorials/Tutorial3/WT-Select-Hand-Tool.mov using Guid(681d4800f4c8b48baa973ff866a465a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a22bf78a864d03b39fb0dfb849e72ae4') in 0.000423 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/Karting/Tutorials/Tutorial3/WT-Orbit-Hand-Tool.mov
+  artifactKey: Guid(9c70b0ce0d23a43afa790c182aeb552f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Tutorials/Tutorial3/WT-Orbit-Hand-Tool.mov using Guid(9c70b0ce0d23a43afa790c182aeb552f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90c6d980c7a5829af6e426d0dfab39a7') in 0.000500 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000120 seconds.
+  path: Assets/Karting/Tutorials/Tutorial3/Walkthrough3-05-Orbit-Scene.asset
+  artifactKey: Guid(b557a83bcc83a4b8f8f192ee86aedc5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Tutorials/Tutorial3/Walkthrough3-05-Orbit-Scene.asset using Guid(b557a83bcc83a4b8f8f192ee86aedc5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91f25c2a3abc6c0520e73a54b164ddfc') in 0.000978 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 5
+========================================================================
+Received Import Request.
+  Time since last request: 0.000104 seconds.
+  path: Assets/Karting/Tutorials/Tutorial3/Walkthrough3-07-Project-Window.asset
+  artifactKey: Guid(2369aced5fb244c9da60ff7d0068c59f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Tutorials/Tutorial3/Walkthrough3-07-Project-Window.asset using Guid(2369aced5fb244c9da60ff7d0068c59f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59a63c4aad52aec041bcbe22d38096e0') in 0.000845 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000062 seconds.
+  path: Assets/Karting/Tutorials/Tutorial3/WT-Hierarchy-and-Scene.png
+  artifactKey: Guid(711e1c4aefe4841b29c9a91f02d900b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Tutorials/Tutorial3/WT-Hierarchy-and-Scene.png using Guid(711e1c4aefe4841b29c9a91f02d900b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62f976454ad7eb46d854e67184a78b79') in 0.005881 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 1.745191 seconds.
+  path: Assets/Karting/Tutorials/Tutorial4/Walkthrough4.asset
+  artifactKey: Guid(351b553575cb34b12945f5996095329d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Tutorials/Tutorial4/Walkthrough4.asset using Guid(351b553575cb34b12945f5996095329d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de7742fc85b219847c06c9b3b3bb24cb') in 0.041605 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 140
+========================================================================
+Received Import Request.
+  Time since last request: 0.000067 seconds.
+  path: Assets/Karting/Tutorials/Tutorial4/Walkthrough4-032.asset
+  artifactKey: Guid(9e40b27755e7c417bb209bc003d8b464) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Tutorials/Tutorial4/Walkthrough4-032.asset using Guid(9e40b27755e7c417bb209bc003d8b464) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1af319a0bd204462ff41344c4621a0c2') in 0.002198 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 21
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/Karting/Tutorials/Tutorial4/WT-Play.mov
+  artifactKey: Guid(a525dc847077d4509b4eedeb0db35ff8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Tutorials/Tutorial4/WT-Play.mov using Guid(a525dc847077d4509b4eedeb0db35ff8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e6db72302a32b41204fb9bdce79c1b0') in 0.000458 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000095 seconds.
+  path: Assets/Karting/Tutorials/Tutorial4/Walkthrough4-040.asset
+  artifactKey: Guid(426c2ecafb50d45939c113b173a202a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Tutorials/Tutorial4/Walkthrough4-040.asset using Guid(426c2ecafb50d45939c113b173a202a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) SendMessage cannot be called during Awake, CheckConsistency, or OnValidate (JumpRamp: OnMeshFilterChanged)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.AssetDatabase:LoadAssetAtPath<Unity.Tutorials.Core.Editor.Tutorial> (string) (at /Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs:261)
+System.Linq.Utilities/<>c__DisplayClass2_0`3<string, string, Unity.Tutorials.Core.Editor.Tutorial>:<CombineSelectors>b__0 (string)
+System.Linq.Enumerable/SelectArrayIterator`2<string, Unity.Tutorials.Core.Editor.Tutorial>:MoveNext ()
+System.Linq.Enumerable/<ExceptIterator>d__57`1<Unity.Tutorials.Core.Editor.Tutorial>:MoveNext ()
+System.Linq.Enumerable:Any<Unity.Tutorials.Core.Editor.Tutorial> (System.Collections.Generic.IEnumerable`1<Unity.Tutorials.Core.Editor.Tutorial>,System.Func`2<Unity.Tutorials.Core.Editor.Tutorial, bool>)
+Unity.Tutorials.Core.Editor.Tutorial:OnValidate () (at ./Library/PackageCache/com.unity.learn.iet-framework@3.1.3/Editor/Core/Tutorial.cs:338)
+
+[/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs line 261]
+
+ -> (artifact id: '37b2250b1beac15c9da4ea6e5472aa8a') in 0.037680 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 140
+========================================================================
+Received Import Request.
+  Time since last request: 1.993983 seconds.
+  path: Assets/Karting/Tutorials/Sound Effects/Pop.aiff
+  artifactKey: Guid(93fbb109633e844259ea828442bda0cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Tutorials/Sound Effects/Pop.aiff using Guid(93fbb109633e844259ea828442bda0cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77e1feffc24fdb881c386566590affc6') in 0.034270 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.554362 seconds.
+  path: Assets/Karting/Tutorials/Icons/KartIcon.png
+  artifactKey: Guid(bccfad5750124e04c9a10350725dd9fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Tutorials/Icons/KartIcon.png using Guid(bccfad5750124e04c9a10350725dd9fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66cde44dd681bf3764cccfb228accdfe') in 0.005748 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.722966 seconds.
+  path: Assets/Karting/Tutorials/BuildAndPublish/Build and Publish.asset
+  artifactKey: Guid(c122a1a2efeb58349b8154e42481067b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Tutorials/BuildAndPublish/Build and Publish.asset using Guid(c122a1a2efeb58349b8154e42481067b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) SendMessage cannot be called during Awake, CheckConsistency, or OnValidate (JumpRamp: OnMeshFilterChanged)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.AssetDatabase:LoadAssetAtPath<Unity.Tutorials.Core.Editor.Tutorial> (string) (at /Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs:261)
+System.Linq.Utilities/<>c__DisplayClass2_0`3<string, string, Unity.Tutorials.Core.Editor.Tutorial>:<CombineSelectors>b__0 (string)
+System.Linq.Enumerable/SelectArrayIterator`2<string, Unity.Tutorials.Core.Editor.Tutorial>:MoveNext ()
+System.Linq.Enumerable/<ExceptIterator>d__57`1<Unity.Tutorials.Core.Editor.Tutorial>:MoveNext ()
+System.Linq.Enumerable:Any<Unity.Tutorials.Core.Editor.Tutorial> (System.Collections.Generic.IEnumerable`1<Unity.Tutorials.Core.Editor.Tutorial>,System.Func`2<Unity.Tutorials.Core.Editor.Tutorial, bool>)
+Unity.Tutorials.Core.Editor.Tutorial:OnValidate () (at ./Library/PackageCache/com.unity.learn.iet-framework@3.1.3/Editor/Core/Tutorial.cs:338)
+
+[/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs line 261]
+
+ -> (artifact id: '10d60bcd106901de13244093dfa7eff9') in 0.038534 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 140
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/Karting/Tutorials/BuildAndPublish/Walkthrough7-014.asset
+  artifactKey: Guid(eb4604b43980b3740a07722643b2ecbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Tutorials/BuildAndPublish/Walkthrough7-014.asset using Guid(eb4604b43980b3740a07722643b2ecbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a9123b0c2bcb0b6d7ddeec998f19fc1') in 0.001416 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 5
+========================================================================
+Received Import Request.
+  Time since last request: 0.000101 seconds.
+  path: Assets/Karting/Tutorials/BuildAndPublish/Walkthrough7-020.asset
+  artifactKey: Guid(6f964d3cc40f45747aebcf0c57f609ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Tutorials/BuildAndPublish/Walkthrough7-020.asset using Guid(6f964d3cc40f45747aebcf0c57f609ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8451880f4edfe20bfb65db40d5e9f64c') in 0.001208 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
+========================================================================
+Received Import Request.
+  Time since last request: 0.000064 seconds.
+  path: Assets/Karting/Tutorials/BuildAndPublish/Walkthrough7-010.asset
+  artifactKey: Guid(fcca6e4cbcfd27e49bf16a7c3a6eb019) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Tutorials/BuildAndPublish/Walkthrough7-010.asset using Guid(fcca6e4cbcfd27e49bf16a7c3a6eb019) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb8261d270dd331ff9d0813af028ba98') in 0.000862 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 5
+========================================================================
+Received Import Request.
+  Time since last request: 0.000080 seconds.
+  path: Assets/Karting/Tutorials/BuildAndPublish/Walkthrough7-015.asset
+  artifactKey: Guid(daafa2d048ca372498d84eb1ff8a9a31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Tutorials/BuildAndPublish/Walkthrough7-015.asset using Guid(daafa2d048ca372498d84eb1ff8a9a31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b3c0bc8dfa6df63c741f8f4553541f1') in 0.001023 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Karting/Tutorials/BuildAndPublish/Walkthrough7-013.asset
+  artifactKey: Guid(97f3ee3958d87894d8f23cc258f28f0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Tutorials/BuildAndPublish/Walkthrough7-013.asset using Guid(97f3ee3958d87894d8f23cc258f28f0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f5c7c226ba2c2da5692a49b750ac1db') in 0.000897 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 5
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Karting/Tutorials/BuildAndPublish/Walkthrough7-030.asset
+  artifactKey: Guid(5ae42c0e96418ec46b613bb3c92bb7b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Tutorials/BuildAndPublish/Walkthrough7-030.asset using Guid(5ae42c0e96418ec46b613bb3c92bb7b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a516ab5e55d303de38f0bd6eb2d15535') in 0.000785 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 2.236575 seconds.
+  path: Assets/Karting/Tutorials/BuildAndPublish/Criteria
+  artifactKey: Guid(efb2368ee8bed9140a42c2805613ed11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Tutorials/BuildAndPublish/Criteria using Guid(efb2368ee8bed9140a42c2805613ed11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47caceff3b30724558a05b627b618e30') in 0.000423 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.078162 seconds.
+  path: Assets/Karting/Tutorials/BuildAndPublish/Criteria/PublishCriteria.asset
+  artifactKey: Guid(43f99256ccd065c47b41dc50b89eb706) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Tutorials/BuildAndPublish/Criteria/PublishCriteria.asset using Guid(43f99256ccd065c47b41dc50b89eb706) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e41377e267afc01161359e638f2a3d34') in 0.000743 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 1.653819 seconds.
+  path: Assets/Karting/Tutorials/BuildAndPublish/Criteria/PublishCriteria.cs
+  artifactKey: Guid(c3420f187011c1a43824ca0d4c88d6c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Tutorials/BuildAndPublish/Criteria/PublishCriteria.cs using Guid(c3420f187011c1a43824ca0d4c88d6c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f51a7bbad4fc1093aaeb7eab151b83a9') in 0.000357 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x2af397000 may have been prematurely finalized
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  0.638 seconds
+Refreshing native plugins compatible for Editor in 2.01 ms, found 2 plugins.
+Native extension for LinuxStandalone target not found
+Native extension for OSXStandalone target not found
+[MODES] ModeService[none].Initialize
+[MODES] ModeService[none].LoadModes
+[MODES] Loading mode Default (0) for mode-current-id-3D
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.814 seconds
+Domain Reload Profiling: 1453ms
+	BeginReloadAssembly (429ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (3ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (41ms)
+	RebuildCommonClasses (22ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (28ms)
+	LoadAllAssembliesAndSetupDomain (151ms)
+		LoadAssemblies (178ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (11ms)
+			TypeCache.Refresh (6ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (815ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (355ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (26ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (53ms)
+			ProcessInitializeOnLoadAttributes (254ms)
+			ProcessInitializeOnLoadMethodAttributes (19ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (3ms)
+Refreshing native plugins compatible for Editor in 3.19 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3720 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 107 unused Assets / (27.2 MB). Loaded Objects now: 4262.
+Memory consumption went from 184.0 MB to 156.7 MB.
+Total: 5.437584 ms (FindLiveObjects: 0.139750 ms CreateObjectMapping: 0.044208 ms MarkObjects: 2.711250 ms  DeleteObjects: 2.541834 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 756ad292c208cfabdd7b50bc23989ffe -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 6.98 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 40 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 40 unused Assets / (27.2 MB). Loaded Objects now: 4262.
+Memory consumption went from 125.6 MB to 98.4 MB.
+Total: 29.677291 ms (FindLiveObjects: 0.214125 ms CreateObjectMapping: 0.047000 ms MarkObjects: 26.598417 ms  DeleteObjects: 2.816625 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 756ad292c208cfabdd7b50bc23989ffe -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+TcpMessagingSession - receive error
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
