@@ -5,6 +5,7 @@ ShaderCache/
 StateCache/
 PlayerDataCache/
 SplashScreenCache/
+Logs/
 
 .vscode/
 .DS_Store

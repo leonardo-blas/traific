@@ -313,25 +313,25 @@
         <HintPath>/Applications/Unity/Hub/Editor/2022.3.9f1/Unity.app/Contents/Managed/UnityEngine/UnityEditor.UnityConnectModule.dll</HintPath>
     </Reference>
     <Reference Include="websocket-sharp">
-        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/3D/Library/PackageCache/com.unity.services.wire@1.2.0/Plugins/websocket-sharp.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator/3D/Library/PackageCache/com.unity.services.wire@1.2.0/Plugins/websocket-sharp.dll</HintPath>
     </Reference>
     <Reference Include="System.IO.Abstractions">
-        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/3D/Library/PackageCache/com.unity.ml-agents@2.0.1/Plugins/System.IO.Abstractions.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator/3D/Library/PackageCache/com.unity.ml-agents@2.0.1/Plugins/System.IO.Abstractions.dll</HintPath>
     </Reference>
     <Reference Include="System.Interactive.Async">
-        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/3D/Library/PackageCache/com.unity.ml-agents@2.0.1/Plugins/ProtoBuffer/System.Interactive.Async.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator/3D/Library/PackageCache/com.unity.ml-agents@2.0.1/Plugins/ProtoBuffer/System.Interactive.Async.dll</HintPath>
     </Reference>
     <Reference Include="Google.Protobuf">
-        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/3D/Library/PackageCache/com.unity.barracuda@3.0.0/Barracuda/Runtime/Plugins/ProtoBuffer/Google.Protobuf.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator/3D/Library/PackageCache/com.unity.barracuda@3.0.0/Barracuda/Runtime/Plugins/ProtoBuffer/Google.Protobuf.dll</HintPath>
     </Reference>
     <Reference Include="Grpc.Core">
-        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/3D/Library/PackageCache/com.unity.ml-agents@2.0.1/Plugins/ProtoBuffer/Grpc.Core.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator/3D/Library/PackageCache/com.unity.ml-agents@2.0.1/Plugins/ProtoBuffer/Grpc.Core.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json">
-        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/3D/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.2.1/Runtime/Newtonsoft.Json.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator/3D/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.2.1/Runtime/Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="System.IO.Abstractions.TestingHelpers">
-        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/3D/Library/PackageCache/com.unity.ml-agents@2.0.1/Plugins/System.IO.Abstractions.TestingHelpers.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator/3D/Library/PackageCache/com.unity.ml-agents@2.0.1/Plugins/System.IO.Abstractions.TestingHelpers.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
         <HintPath>/Applications/Unity/Hub/Editor/2022.3.9f1/Unity.app/Contents/UnityReferenceAssemblies/unity-4.8-api/mscorlib.dll</HintPath>
@@ -709,160 +709,160 @@
         <HintPath>/Applications/Unity/Hub/Editor/2022.3.9f1/Unity.app/Contents/UnityReferenceAssemblies/unity-4.8-api/Facades/netstandard.dll</HintPath>
     </Reference>
     <Reference Include="com.unity.cinemachine.editor">
-        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/3D/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator/3D/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Postprocessing.Runtime">
-        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/3D/Library/ScriptAssemblies/Unity.Postprocessing.Runtime.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator/3D/Library/ScriptAssemblies/Unity.Postprocessing.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst.Editor">
-        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/3D/Library/ScriptAssemblies/Unity.Burst.Editor.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator/3D/Library/ScriptAssemblies/Unity.Burst.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.AI.Navigation">
-        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/3D/Library/ScriptAssemblies/Unity.AI.Navigation.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator/3D/Library/ScriptAssemblies/Unity.AI.Navigation.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Services.Core">
-        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/3D/Library/ScriptAssemblies/Unity.Services.Core.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator/3D/Library/ScriptAssemblies/Unity.Services.Core.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Services.Multiplay">
-        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/3D/Library/ScriptAssemblies/Unity.Services.Multiplay.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator/3D/Library/ScriptAssemblies/Unity.Services.Multiplay.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ML-Agents.Editor">
-        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/3D/Library/ScriptAssemblies/Unity.ML-Agents.Editor.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator/3D/Library/ScriptAssemblies/Unity.ML-Agents.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ProBuilder.AddOns.Editor">
-        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/3D/Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator/3D/Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/3D/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator/3D/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Mathematics.Editor">
-        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/3D/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator/3D/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Services.Core.Environments">
-        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/3D/Library/ScriptAssemblies/Unity.Services.Core.Environments.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator/3D/Library/ScriptAssemblies/Unity.Services.Core.Environments.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Tutorials.Core.Editor">
-        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/3D/Library/ScriptAssemblies/Unity.Tutorials.Core.Editor.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator/3D/Library/ScriptAssemblies/Unity.Tutorials.Core.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/3D/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator/3D/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Services.Core.Analytics">
-        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/3D/Library/ScriptAssemblies/Unity.Services.Core.Analytics.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator/3D/Library/ScriptAssemblies/Unity.Services.Core.Analytics.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ProBuilder.AssetIdRemapUtility">
-        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/3D/Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator/3D/Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.dll</HintPath>
     </Reference>
     <Reference Include="Unity.AI.Navigation.Editor.ConversionSystem">
-        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/3D/Library/ScriptAssemblies/Unity.AI.Navigation.Editor.ConversionSystem.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator/3D/Library/ScriptAssemblies/Unity.AI.Navigation.Editor.ConversionSystem.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/3D/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator/3D/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.InternalAPIEditorBridge.007">
-        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/3D/Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.007.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator/3D/Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.007.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Sysroot.Linux_x86_64">
-        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/3D/Library/ScriptAssemblies/Unity.Sysroot.Linux_x86_64.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator/3D/Library/ScriptAssemblies/Unity.Sysroot.Linux_x86_64.dll</HintPath>
     </Reference>
     <Reference Include="Unity.EditorCoroutines.Editor">
-        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/3D/Library/ScriptAssemblies/Unity.EditorCoroutines.Editor.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator/3D/Library/ScriptAssemblies/Unity.EditorCoroutines.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.InternalAPIEngineBridge.007">
-        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/3D/Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.007.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator/3D/Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.007.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PlasticSCM.Editor">
-        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/3D/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator/3D/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst">
-        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/3D/Library/ScriptAssemblies/Unity.Burst.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator/3D/Library/ScriptAssemblies/Unity.Burst.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ProBuilder">
-        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/3D/Library/ScriptAssemblies/Unity.ProBuilder.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator/3D/Library/ScriptAssemblies/Unity.ProBuilder.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Barracuda.ONNX">
-        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/3D/Library/ScriptAssemblies/Unity.Barracuda.ONNX.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator/3D/Library/ScriptAssemblies/Unity.Barracuda.ONNX.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Barracuda.MacBLAS">
-        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/3D/Library/ScriptAssemblies/Unity.Barracuda.MacBLAS.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator/3D/Library/ScriptAssemblies/Unity.Barracuda.MacBLAS.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/3D/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator/3D/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Tutorials.Core">
-        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/3D/Library/ScriptAssemblies/Unity.Tutorials.Core.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator/3D/Library/ScriptAssemblies/Unity.Tutorials.Core.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Barracuda.iOSBLAS">
-        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/3D/Library/ScriptAssemblies/Unity.Barracuda.iOSBLAS.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator/3D/Library/ScriptAssemblies/Unity.Barracuda.iOSBLAS.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualStudio.Editor">
-        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/3D/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator/3D/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/3D/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator/3D/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/3D/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator/3D/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Barracuda">
-        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/3D/Library/ScriptAssemblies/Unity.Barracuda.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator/3D/Library/ScriptAssemblies/Unity.Barracuda.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Services.Authentication.Editor.Shared">
-        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/3D/Library/ScriptAssemblies/Unity.Services.Authentication.Editor.Shared.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator/3D/Library/ScriptAssemblies/Unity.Services.Authentication.Editor.Shared.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Barracuda.BurstBLAS">
-        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/3D/Library/ScriptAssemblies/Unity.Barracuda.BurstBLAS.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator/3D/Library/ScriptAssemblies/Unity.Barracuda.BurstBLAS.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Services.Multiplay.Sqp">
-        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/3D/Library/ScriptAssemblies/Unity.Services.Multiplay.Sqp.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator/3D/Library/ScriptAssemblies/Unity.Services.Multiplay.Sqp.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/3D/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator/3D/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ProBuilder.Editor">
-        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/3D/Library/ScriptAssemblies/Unity.ProBuilder.Editor.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator/3D/Library/ScriptAssemblies/Unity.ProBuilder.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Toolchain.Macos-arm64-Linux-x86_64">
-        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/3D/Library/ScriptAssemblies/Unity.Toolchain.Macos-arm64-Linux-x86_64.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator/3D/Library/ScriptAssemblies/Unity.Toolchain.Macos-arm64-Linux-x86_64.dll</HintPath>
     </Reference>
     <Reference Include="Unity.SysrootPackage.Editor">
-        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/3D/Library/ScriptAssemblies/Unity.SysrootPackage.Editor.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator/3D/Library/ScriptAssemblies/Unity.SysrootPackage.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.AI.Navigation.Updater">
-        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/3D/Library/ScriptAssemblies/Unity.AI.Navigation.Updater.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator/3D/Library/ScriptAssemblies/Unity.AI.Navigation.Updater.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ML-Agents">
-        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/3D/Library/ScriptAssemblies/Unity.ML-Agents.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator/3D/Library/ScriptAssemblies/Unity.ML-Agents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ML-Agents.CommunicatorObjects">
-        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/3D/Library/ScriptAssemblies/Unity.ML-Agents.CommunicatorObjects.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator/3D/Library/ScriptAssemblies/Unity.ML-Agents.CommunicatorObjects.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Postprocessing.Editor">
-        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/3D/Library/ScriptAssemblies/Unity.Postprocessing.Editor.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator/3D/Library/ScriptAssemblies/Unity.Postprocessing.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Services.Authentication">
-        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/3D/Library/ScriptAssemblies/Unity.Services.Authentication.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator/3D/Library/ScriptAssemblies/Unity.Services.Authentication.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Mathematics">
-        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/3D/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator/3D/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
     </Reference>
     <Reference Include="Unity.InternalAPIEditorBridgeDev.001">
-        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/3D/Library/ScriptAssemblies/Unity.InternalAPIEditorBridgeDev.001.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator/3D/Library/ScriptAssemblies/Unity.InternalAPIEditorBridgeDev.001.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/3D/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator/3D/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Barracuda.Editor">
-        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/3D/Library/ScriptAssemblies/Unity.Barracuda.Editor.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator/3D/Library/ScriptAssemblies/Unity.Barracuda.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.AI.Navigation.Editor">
-        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/3D/Library/ScriptAssemblies/Unity.AI.Navigation.Editor.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator/3D/Library/ScriptAssemblies/Unity.AI.Navigation.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Cinemachine">
-        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/3D/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator/3D/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Play.Publisher.Editor">
-        <HintPath>/Users/leonardoblas/Desktop/driving-simulator 2/3D/Library/ScriptAssemblies/Unity.Play.Publisher.Editor.dll</HintPath>
+        <HintPath>/Users/leonardoblas/Desktop/driving-simulator/3D/Library/ScriptAssemblies/Unity.Play.Publisher.Editor.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
