@@ -6,9 +6,10 @@ StateCache/
 PlayerDataCache/
 SplashScreenCache/
 Logs/
+Library/
 
 ArtifactDB
-ArtifactDB-lock
+ArtifactDB-lockw
 
 .vscode/
 .idea/
