@@ -1,17 +1,20 @@
 ﻿using UnityEngine;
+using Unity.Netcode;
 
 namespace KartGame.KartSystems {
 
     public class KeyboardInput : BaseInput
     {
-        public string Horizontal = "Horizontal";
-        public string Vertical = "Vertical";
-
         public override Vector2 GenerateInput() {
-            return new Vector2 {
-                x = Input.GetAxis(Horizontal),
-                y = Input.GetAxis(Vertical)
-            };
+            if (IsOwner)
+            {
+                return new Vector2 {
+                    x = Input.GetAxis("Horizontal"),
+                    y = Input.GetAxis("Vertical")
+                };
+            }
+
+            return new Vector2(0, 0);
         }
     }
 }

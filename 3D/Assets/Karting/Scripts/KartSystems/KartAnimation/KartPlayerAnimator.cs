@@ -1,10 +1,11 @@
 ﻿using UnityEngine;
 using UnityEngine.Assertions;
+using Unity.Netcode;
 
 namespace KartGame.KartSystems 
 {
 
-    public class KartPlayerAnimator : MonoBehaviour
+    public class KartPlayerAnimator : NetworkBehaviour
     {
         public Animator PlayerAnimator;
         public ArcadeKart Kart;

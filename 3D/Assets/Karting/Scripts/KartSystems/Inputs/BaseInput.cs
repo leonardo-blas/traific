@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using Unity.Netcode;
+using UnityEngine;
 
 namespace KartGame.KartSystems
 {
@@ -8,7 +9,7 @@ namespace KartGame.KartSystems
         Vector2 GenerateInput();
     }
 
-    public abstract class BaseInput : MonoBehaviour, IInput
+    public abstract class BaseInput : NetworkBehaviour, IInput
     {
         /// <summary>
         /// Override this function to generate an XY input that can be used to steer and control the car.

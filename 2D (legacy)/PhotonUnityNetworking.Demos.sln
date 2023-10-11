@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotonUnityNetworking.Demos", "PhotonUnityNetworking.Demos.csproj", "{9B484E3C-EBC6-8D3F-3DF6-6A71D12E9B07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B484E3C-EBC6-8D3F-3DF6-6A71D12E9B07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B484E3C-EBC6-8D3F-3DF6-6A71D12E9B07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B484E3C-EBC6-8D3F-3DF6-6A71D12E9B07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B484E3C-EBC6-8D3F-3DF6-6A71D12E9B07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33F75654-D5DD-44B0-9ECD-441CB410B07B}
+	EndGlobalSection
+EndGlobal

@@ -1,25 +1,25 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: /Users/ayushwattal/Documents/GitHub/driving-simulator/3D/Packages/manifest.json
+    m_FilePath: /Users/leonardoblas/Desktop/driving-simulator/3D/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638307705180000000
-    m_Hash: 1085232647
+      ticks: 638312033560000000
+    m_Hash: 3791585249
   m_LockFileStatus:
-    m_FilePath: /Users/ayushwattal/Documents/GitHub/driving-simulator/3D/Packages/packages-lock.json
+    m_FilePath: /Users/leonardoblas/Desktop/driving-simulator/3D/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638307705180000000
-    m_Hash: 1551784919
+      ticks: 638312033560000000
+    m_Hash: 21474571
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
-m_ProjectPath: /Users/ayushwattal/Documents/GitHub/driving-simulator/3D/Packages
+m_ProjectPath: /Users/leonardoblas/Desktop/driving-simulator/3D/Packages
 m_EditorVersion: 2022.3.9f1 (ea401c316338)
 m_ResolvedPackages:
 - packageId: com.unity.ai.navigation@1.1.4
@@ -27,7 +27,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.1.4
   source: 1
-  resolvedPath: /Users/ayushwattal/Documents/GitHub/driving-simulator/3D/Library/PackageCache/com.unity.ai.navigation@1.1.4
+  resolvedPath: /Users/leonardoblas/Desktop/driving-simulator/3D/Library/PackageCache/com.unity.ai.navigation@1.1.4
   assetPath: Packages/com.unity.ai.navigation
   name: com.unity.ai.navigation
   displayName: AI Navigation
@@ -52,10 +52,13 @@ m_ResolvedPackages:
     - 1.1.1
     - 1.1.3
     - 1.1.4
+    - 1.1.5
     - 2.0.0-pre.3
+    - 2.0.0-pre.4
     compatible:
     - 1.1.4
-    recommended: 1.1.4
+    - 1.1.5
+    recommended: 1.1.5
     deprecated: []
   dependencies:
   - name: com.unity.modules.ai
@@ -95,7 +98,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 3.0.0
   source: 1
-  resolvedPath: /Users/ayushwattal/Documents/GitHub/driving-simulator/3D/Library/PackageCache/com.unity.barracuda@3.0.0
+  resolvedPath: /Users/leonardoblas/Desktop/driving-simulator/3D/Library/PackageCache/com.unity.barracuda@3.0.0
   assetPath: Packages/com.unity.barracuda
   name: com.unity.barracuda
   displayName: Barracuda
@@ -204,7 +207,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.9.5
   source: 1
-  resolvedPath: /Users/ayushwattal/Documents/GitHub/driving-simulator/3D/Library/PackageCache/com.unity.cinemachine@2.9.5
+  resolvedPath: /Users/leonardoblas/Desktop/driving-simulator/3D/Library/PackageCache/com.unity.cinemachine@2.9.5
   assetPath: Packages/com.unity.cinemachine
   name: com.unity.cinemachine
   displayName: Cinemachine
@@ -293,6 +296,8 @@ m_ResolvedPackages:
     - 3.0.0-pre.5
     - 3.0.0-pre.6
     - 3.0.0-pre.7
+    - 3.0.0-pre.8
+    - 3.0.0-pre.9
     compatible:
     - 2.9.5
     - 2.9.7
@@ -301,6 +306,8 @@ m_ResolvedPackages:
     - 3.0.0-pre.5
     - 3.0.0-pre.6
     - 3.0.0-pre.7
+    - 3.0.0-pre.8
+    - 3.0.0-pre.9
     recommended: 2.9.7
     deprecated: []
   dependencies:
@@ -369,7 +376,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.7
   source: 1
-  resolvedPath: /Users/ayushwattal/Documents/GitHub/driving-simulator/3D/Library/PackageCache/com.unity.collab-proxy@2.0.7
+  resolvedPath: /Users/leonardoblas/Desktop/driving-simulator/3D/Library/PackageCache/com.unity.collab-proxy@2.0.7
   assetPath: Packages/com.unity.collab-proxy
   name: com.unity.collab-proxy
   displayName: Version Control
@@ -511,7 +518,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 4.2.3
   source: 1
-  resolvedPath: /Users/ayushwattal/Documents/GitHub/driving-simulator/3D/Library/PackageCache/com.unity.connect.share@4.2.3
+  resolvedPath: /Users/leonardoblas/Desktop/driving-simulator/3D/Library/PackageCache/com.unity.connect.share@4.2.3
   assetPath: Packages/com.unity.connect.share
   name: com.unity.connect.share
   displayName: WebGL Publisher
@@ -605,7 +612,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 3.0.24
   source: 1
-  resolvedPath: /Users/ayushwattal/Documents/GitHub/driving-simulator/3D/Library/PackageCache/com.unity.ide.rider@3.0.24
+  resolvedPath: /Users/leonardoblas/Desktop/driving-simulator/3D/Library/PackageCache/com.unity.ide.rider@3.0.24
   assetPath: Packages/com.unity.ide.rider
   name: com.unity.ide.rider
   displayName: JetBrains Rider Editor
@@ -704,7 +711,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.18
   source: 1
-  resolvedPath: /Users/ayushwattal/Documents/GitHub/driving-simulator/3D/Library/PackageCache/com.unity.ide.visualstudio@2.0.18
+  resolvedPath: /Users/leonardoblas/Desktop/driving-simulator/3D/Library/PackageCache/com.unity.ide.visualstudio@2.0.18
   assetPath: Packages/com.unity.ide.visualstudio
   name: com.unity.ide.visualstudio
   displayName: Visual Studio Editor
@@ -794,7 +801,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.2.5
   source: 1
-  resolvedPath: /Users/ayushwattal/Documents/GitHub/driving-simulator/3D/Library/PackageCache/com.unity.ide.vscode@1.2.5
+  resolvedPath: /Users/leonardoblas/Desktop/driving-simulator/3D/Library/PackageCache/com.unity.ide.vscode@1.2.5
   assetPath: Packages/com.unity.ide.vscode
   name: com.unity.ide.vscode
   displayName: Visual Studio Code Editor
@@ -862,7 +869,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 3.1.3
   source: 1
-  resolvedPath: /Users/ayushwattal/Documents/GitHub/driving-simulator/3D/Library/PackageCache/com.unity.learn.iet-framework@3.1.3
+  resolvedPath: /Users/leonardoblas/Desktop/driving-simulator/3D/Library/PackageCache/com.unity.learn.iet-framework@3.1.3
   assetPath: Packages/com.unity.learn.iet-framework
   name: com.unity.learn.iet-framework
   displayName: Tutorial Framework
@@ -973,83 +980,103 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
-- packageId: com.unity.ml-agents@2.0.1
+- packageId: com.unity.multiplayer.samples.coop@https://github.com/Unity-Technologies/com.unity.multiplayer.samples.coop.git?path=/Packages/com.unity.multiplayer.samples.coop#main
   testable: 0
   isDirectDependency: 1
-  version: 2.0.1
-  source: 1
-  resolvedPath: /Users/ayushwattal/Documents/GitHub/driving-simulator/3D/Library/PackageCache/com.unity.ml-agents@2.0.1
-  assetPath: Packages/com.unity.ml-agents
-  name: com.unity.ml-agents
-  displayName: ML Agents
+  version: 1.6.1
+  source: 5
+  resolvedPath: /Users/leonardoblas/Desktop/driving-simulator/3D/Library/PackageCache/com.unity.multiplayer.samples.coop@1b5d166afb
+  assetPath: Packages/com.unity.multiplayer.samples.coop
+  name: com.unity.multiplayer.samples.coop
+  displayName: Multiplayer Samples Utilities
   author:
     name: 
     email: 
     url: 
   category: 
-  type: asset
-  description: Use state-of-the-art machine learning to create intelligent character
-    behaviors in any Unity environment (games, robotics, film, etc.).
+  type: template
+  description: Utilities package built on top of Netcode for GameObjects, providing
+    useful scripts and tools.
   status: 0
   errors: []
   versions:
-    all:
-    - 0.16.0-preview
-    - 1.0.0-preview
-    - 1.0.1-preview
-    - 1.0.2-preview
-    - 1.0.2
-    - 1.0.3
-    - 1.0.4
-    - 1.0.5
-    - 1.0.6
-    - 1.0.7
-    - 1.0.8
-    - 1.1.0-preview
-    - 1.2.0-preview
-    - 1.3.0-preview
-    - 1.4.0-preview
-    - 1.5.0-preview
-    - 1.6.0-preview
-    - 1.7.0-preview
-    - 1.7.2-preview
-    - 1.8.0-preview
-    - 1.8.1-preview
-    - 1.9.0-preview
-    - 1.9.1-preview
-    - 2.0.0-exp.1
-    - 2.0.0-pre.3
-    - 2.0.0
-    - 2.0.1
-    - 2.1.0-exp.1
-    - 2.2.1-exp.1
-    - 2.3.0-exp.2
-    - 2.3.0-exp.3
-    compatible:
-    - 2.0.1
-    - 2.1.0-exp.1
-    - 2.2.1-exp.1
-    - 2.3.0-exp.2
-    - 2.3.0-exp.3
-    recommended: 2.0.1
+    all: []
+    compatible: []
+    recommended: 
     deprecated: []
   dependencies:
-  - name: com.unity.barracuda
-    version: 2.0.0
-  - name: com.unity.modules.imageconversion
-    version: 1.0.0
-  - name: com.unity.modules.jsonserialize
-    version: 1.0.0
+  - name: com.unity.learn.iet-framework
+    version: 3.1.3
+  - name: com.unity.multiplayer.tools
+    version: 1.1.0
+  - name: com.unity.netcode.gameobjects
+    version: 1.6.0
+  - name: com.unity.services.relay
+    version: 1.0.5
   resolvedDependencies:
-  - name: com.unity.barracuda
-    version: 3.0.0
+  - name: com.unity.learn.iet-framework
+    version: 3.1.3
+  - name: com.unity.editorcoroutines
+    version: 1.0.0
+  - name: com.unity.settings-manager
+    version: 2.0.1
+  - name: com.unity.multiplayer.tools
+    version: 1.1.1
+  - name: com.unity.profiling.core
+    version: 1.0.2
+  - name: com.unity.nuget.newtonsoft-json
+    version: 3.2.1
+  - name: com.unity.nuget.mono-cecil
+    version: 1.11.4
+  - name: com.unity.collections
+    version: 1.2.4
   - name: com.unity.burst
     version: 1.8.8
   - name: com.unity.mathematics
     version: 1.2.6
+  - name: com.unity.test-framework
+    version: 1.1.33
+  - name: com.unity.ext.nunit
+    version: 1.0.6
+  - name: com.unity.modules.imgui
+    version: 1.0.0
   - name: com.unity.modules.jsonserialize
     version: 1.0.0
+  - name: com.unity.modules.uielements
+    version: 1.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.netcode.gameobjects
+    version: 1.6.0
+  - name: com.unity.transport
+    version: 1.3.4
+  - name: com.unity.services.relay
+    version: 1.0.5
+  - name: com.unity.services.core
+    version: 1.11.0
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  - name: com.unity.modules.androidjni
+    version: 1.0.0
+  - name: com.unity.services.authentication
+    version: 3.0.0
+  - name: com.unity.ugui
+    version: 1.0.0
+  - name: com.unity.services.qos
+    version: 1.2.1
+  - name: com.unity.modules.unitywebrequestassetbundle
+    version: 1.0.0
+  - name: com.unity.modules.assetbundle
+    version: 1.0.0
+  - name: com.unity.modules.unitywebrequestaudio
+    version: 1.0.0
+  - name: com.unity.modules.audio
+    version: 1.0.0
+  - name: com.unity.modules.unitywebrequesttexture
+    version: 1.0.0
   - name: com.unity.modules.imageconversion
+    version: 1.0.0
+  - name: com.unity.modules.unitywebrequestwww
     version: 1.0.0
   keywords: []
   registry:
@@ -1062,16 +1089,122 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637719956720000000
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.multiplayer.tools@1.1.1
+  testable: 0
+  isDirectDependency: 1
+  version: 1.1.1
+  source: 1
+  resolvedPath: /Users/leonardoblas/Desktop/driving-simulator/3D/Library/PackageCache/com.unity.multiplayer.tools@1.1.1
+  assetPath: Packages/com.unity.multiplayer.tools
+  name: com.unity.multiplayer.tools
+  displayName: Multiplayer Tools
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: tool
+  description: Adds a suite of tools that improve workflows for multiplayer development
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.0-pre.2
+    - 1.0.0-pre.6
+    - 1.0.0-pre.7
+    - 1.0.0-pre.8
+    - 1.0.0
+    - 1.1.0
+    - 1.1.1
+    - 2.0.0-pre.2
+    - 2.0.0-pre.3
+    - 2.0.0-pre.5
+    compatible:
+    - 1.0.0
+    - 1.1.0
+    - 1.1.1
+    - 2.0.0-pre.2
+    - 2.0.0-pre.3
+    - 2.0.0-pre.5
+    recommended: 1.0.0
+    deprecated: []
+  dependencies:
+  - name: com.unity.profiling.core
+    version: 1.0.0-pre.1
+  - name: com.unity.nuget.newtonsoft-json
+    version: 2.0.0
+  - name: com.unity.nuget.mono-cecil
+    version: 1.10.1
+  - name: com.unity.collections
+    version: 1.1.0
+  - name: com.unity.modules.uielements
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.profiling.core
+    version: 1.0.2
+  - name: com.unity.nuget.newtonsoft-json
+    version: 3.2.1
+  - name: com.unity.nuget.mono-cecil
+    version: 1.11.4
+  - name: com.unity.collections
+    version: 1.2.4
+  - name: com.unity.burst
+    version: 1.8.8
+  - name: com.unity.mathematics
+    version: 1.2.6
+  - name: com.unity.test-framework
+    version: 1.1.33
+  - name: com.unity.ext.nunit
+    version: 1.0.6
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.modules.uielements
+    version: 1.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  keywords:
+  - Multiplayer
+  - Netcode
+  - GameObjects
+  - Tools
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638301972310000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
-    url: https://github.com/Unity-Technologies/ml-agents.git
-    revision: 04653e822b9fbca2e276f20ce80e07afe318aa85
+    url: https://github.com/Unity-Technologies/com.unity.multiplayer.tools.git
+    revision: 754df3fa286cf0d8caea715bf03685e80068cb7a
     path: 
   unityLifecycle:
-    version: 2.0.1
+    version: 1.0.0
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
@@ -1083,7 +1216,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 3.2.2
   source: 1
-  resolvedPath: /Users/ayushwattal/Documents/GitHub/driving-simulator/3D/Library/PackageCache/com.unity.postprocessing@3.2.2
+  resolvedPath: /Users/leonardoblas/Desktop/driving-simulator/3D/Library/PackageCache/com.unity.postprocessing@3.2.2
   assetPath: Packages/com.unity.postprocessing
   name: com.unity.postprocessing
   displayName: Post Processing
@@ -1180,7 +1313,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 5.1.1
   source: 1
-  resolvedPath: /Users/ayushwattal/Documents/GitHub/driving-simulator/3D/Library/PackageCache/com.unity.probuilder@5.1.1
+  resolvedPath: /Users/leonardoblas/Desktop/driving-simulator/3D/Library/PackageCache/com.unity.probuilder@5.1.1
   assetPath: Packages/com.unity.probuilder
   name: com.unity.probuilder
   displayName: ProBuilder
@@ -1248,8 +1381,10 @@ m_ResolvedPackages:
     - 5.0.7
     - 5.1.0
     - 5.1.1
+    - 5.2.0
     compatible:
     - 5.1.1
+    - 5.2.0
     recommended: 5.1.1
     deprecated: []
   dependencies:
@@ -1318,7 +1453,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 3.0.0
   source: 1
-  resolvedPath: /Users/ayushwattal/Documents/GitHub/driving-simulator/3D/Library/PackageCache/com.unity.services.authentication@3.0.0
+  resolvedPath: /Users/leonardoblas/Desktop/driving-simulator/3D/Library/PackageCache/com.unity.services.authentication@3.0.0
   assetPath: Packages/com.unity.services.authentication
   name: com.unity.services.authentication
   displayName: Authentication
@@ -1411,12 +1546,124 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+- packageId: com.unity.services.matchmaker@1.1.1
+  testable: 0
+  isDirectDependency: 1
+  version: 1.1.1
+  source: 1
+  resolvedPath: /Users/leonardoblas/Desktop/driving-simulator/3D/Library/PackageCache/com.unity.services.matchmaker@1.1.1
+  assetPath: Packages/com.unity.services.matchmaker
+  name: com.unity.services.matchmaker
+  displayName: Matchmaker
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: assets
+  description: Unity Matchmaker is part of Unity's growing suite of multiplayer services
+    that are designed to help you create and operate multiplayer games no matter
+    what engine you're using.
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.0-pre.7
+    - 1.0.0-pre.8
+    - 1.0.0-pre.9
+    - 1.0.0-pre.10
+    - 1.0.0-pre.11
+    - 1.0.0-pre.12
+    - 1.0.0-pre.13
+    - 1.0.0-pre.14
+    - 1.0.0
+    - 1.1.0-pre.3
+    - 1.1.1
+    compatible:
+    - 1.1.1
+    recommended: 1.1.1
+    deprecated: []
+  dependencies:
+  - name: com.unity.services.core
+    version: 1.8.2
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  - name: com.unity.modules.unitywebrequestassetbundle
+    version: 1.0.0
+  - name: com.unity.modules.unitywebrequestaudio
+    version: 1.0.0
+  - name: com.unity.modules.unitywebrequesttexture
+    version: 1.0.0
+  - name: com.unity.modules.unitywebrequestwww
+    version: 1.0.0
+  - name: com.unity.nuget.newtonsoft-json
+    version: 3.0.2
+  - name: com.unity.services.authentication
+    version: 2.0.0
+  resolvedDependencies:
+  - name: com.unity.services.core
+    version: 1.11.0
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  - name: com.unity.nuget.newtonsoft-json
+    version: 3.2.1
+  - name: com.unity.modules.androidjni
+    version: 1.0.0
+  - name: com.unity.modules.unitywebrequestassetbundle
+    version: 1.0.0
+  - name: com.unity.modules.assetbundle
+    version: 1.0.0
+  - name: com.unity.modules.unitywebrequestaudio
+    version: 1.0.0
+  - name: com.unity.modules.audio
+    version: 1.0.0
+  - name: com.unity.modules.unitywebrequesttexture
+    version: 1.0.0
+  - name: com.unity.modules.imageconversion
+    version: 1.0.0
+  - name: com.unity.modules.unitywebrequestwww
+    version: 1.0.0
+  - name: com.unity.services.authentication
+    version: 3.0.0
+  - name: com.unity.ugui
+    version: 1.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638278575610000000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.services.matchmaker@1.1/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/operate-services-sdk.git
+    revision: 14ce12c6d37b1dc8317d32b6efba909514180190
+    path: 
+  unityLifecycle:
+    version: 1.1.1
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
 - packageId: com.unity.services.multiplay@1.0.5
   testable: 0
   isDirectDependency: 1
   version: 1.0.5
   source: 1
-  resolvedPath: /Users/ayushwattal/Documents/GitHub/driving-simulator/3D/Library/PackageCache/com.unity.services.multiplay@1.0.5
+  resolvedPath: /Users/leonardoblas/Desktop/driving-simulator/3D/Library/PackageCache/com.unity.services.multiplay@1.0.5
   assetPath: Packages/com.unity.services.multiplay
   name: com.unity.services.multiplay
   displayName: Multiplay
@@ -1527,7 +1774,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.1.33
   source: 1
-  resolvedPath: /Users/ayushwattal/Documents/GitHub/driving-simulator/3D/Library/PackageCache/com.unity.test-framework@1.1.33
+  resolvedPath: /Users/leonardoblas/Desktop/driving-simulator/3D/Library/PackageCache/com.unity.test-framework@1.1.33
   assetPath: Packages/com.unity.test-framework
   name: com.unity.test-framework
   displayName: Test Framework
@@ -1654,7 +1901,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 3.0.6
   source: 1
-  resolvedPath: /Users/ayushwattal/Documents/GitHub/driving-simulator/3D/Library/PackageCache/com.unity.textmeshpro@3.0.6
+  resolvedPath: /Users/leonardoblas/Desktop/driving-simulator/3D/Library/PackageCache/com.unity.textmeshpro@3.0.6
   assetPath: Packages/com.unity.textmeshpro
   name: com.unity.textmeshpro
   displayName: TextMeshPro
@@ -1773,6 +2020,7 @@ m_ResolvedPackages:
     - 3.2.0-pre.3
     - 3.2.0-pre.4
     - 3.2.0-pre.5
+    - 3.2.0-pre.6
     - 4.0.0-pre.1
     - 4.0.0-pre.2
     compatible:
@@ -1782,6 +2030,7 @@ m_ResolvedPackages:
     - 3.2.0-pre.3
     - 3.2.0-pre.4
     - 3.2.0-pre.5
+    - 3.2.0-pre.6
     - 4.0.0-pre.1
     - 4.0.0-pre.2
     recommended: 3.0.6
@@ -1833,7 +2082,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.7.5
   source: 1
-  resolvedPath: /Users/ayushwattal/Documents/GitHub/driving-simulator/3D/Library/PackageCache/com.unity.timeline@1.7.5
+  resolvedPath: /Users/leonardoblas/Desktop/driving-simulator/3D/Library/PackageCache/com.unity.timeline@1.7.5
   assetPath: Packages/com.unity.timeline
   name: com.unity.timeline
   displayName: Timeline
@@ -1997,7 +2246,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.0
   source: 1
-  resolvedPath: /Users/ayushwattal/Documents/GitHub/driving-simulator/3D/Library/PackageCache/com.unity.toolchain.macos-arm64-linux-x86_64@2.0.0
+  resolvedPath: /Users/leonardoblas/Desktop/driving-simulator/3D/Library/PackageCache/com.unity.toolchain.macos-arm64-linux-x86_64@2.0.0
   assetPath: Packages/com.unity.toolchain.macos-arm64-linux-x86_64
   name: com.unity.toolchain.macos-arm64-linux-x86_64
   displayName: Toolchain MacOS Arm64 Linux x64
@@ -2068,7 +2317,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/ayushwattal/Documents/GitHub/driving-simulator/3D/Library/PackageCache/com.unity.ugui@1.0.0
+  resolvedPath: /Users/leonardoblas/Desktop/driving-simulator/3D/Library/PackageCache/com.unity.ugui@1.0.0
   assetPath: Packages/com.unity.ugui
   name: com.unity.ugui
   displayName: Unity UI
@@ -2139,7 +2388,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/ayushwattal/Documents/GitHub/driving-simulator/3D/Library/PackageCache/com.unity.modules.ai@1.0.0
+  resolvedPath: /Users/leonardoblas/Desktop/driving-simulator/3D/Library/PackageCache/com.unity.modules.ai@1.0.0
   assetPath: Packages/com.unity.modules.ai
   name: com.unity.modules.ai
   displayName: AI
@@ -2194,7 +2443,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/ayushwattal/Documents/GitHub/driving-simulator/3D/Library/PackageCache/com.unity.modules.androidjni@1.0.0
+  resolvedPath: /Users/leonardoblas/Desktop/driving-simulator/3D/Library/PackageCache/com.unity.modules.androidjni@1.0.0
   assetPath: Packages/com.unity.modules.androidjni
   name: com.unity.modules.androidjni
   displayName: Android JNI
@@ -2248,7 +2497,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/ayushwattal/Documents/GitHub/driving-simulator/3D/Library/PackageCache/com.unity.modules.animation@1.0.0
+  resolvedPath: /Users/leonardoblas/Desktop/driving-simulator/3D/Library/PackageCache/com.unity.modules.animation@1.0.0
   assetPath: Packages/com.unity.modules.animation
   name: com.unity.modules.animation
   displayName: Animation
@@ -2303,7 +2552,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/ayushwattal/Documents/GitHub/driving-simulator/3D/Library/PackageCache/com.unity.modules.assetbundle@1.0.0
+  resolvedPath: /Users/leonardoblas/Desktop/driving-simulator/3D/Library/PackageCache/com.unity.modules.assetbundle@1.0.0
   assetPath: Packages/com.unity.modules.assetbundle
   name: com.unity.modules.assetbundle
   displayName: Asset Bundle
@@ -2358,7 +2607,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/ayushwattal/Documents/GitHub/driving-simulator/3D/Library/PackageCache/com.unity.modules.audio@1.0.0
+  resolvedPath: /Users/leonardoblas/Desktop/driving-simulator/3D/Library/PackageCache/com.unity.modules.audio@1.0.0
   assetPath: Packages/com.unity.modules.audio
   name: com.unity.modules.audio
   displayName: Audio
@@ -2413,7 +2662,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/ayushwattal/Documents/GitHub/driving-simulator/3D/Library/PackageCache/com.unity.modules.cloth@1.0.0
+  resolvedPath: /Users/leonardoblas/Desktop/driving-simulator/3D/Library/PackageCache/com.unity.modules.cloth@1.0.0
   assetPath: Packages/com.unity.modules.cloth
   name: com.unity.modules.cloth
   displayName: Cloth
@@ -2472,7 +2721,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/ayushwattal/Documents/GitHub/driving-simulator/3D/Library/PackageCache/com.unity.modules.director@1.0.0
+  resolvedPath: /Users/leonardoblas/Desktop/driving-simulator/3D/Library/PackageCache/com.unity.modules.director@1.0.0
   assetPath: Packages/com.unity.modules.director
   name: com.unity.modules.director
   displayName: Director
@@ -2535,7 +2784,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/ayushwattal/Documents/GitHub/driving-simulator/3D/Library/PackageCache/com.unity.modules.imageconversion@1.0.0
+  resolvedPath: /Users/leonardoblas/Desktop/driving-simulator/3D/Library/PackageCache/com.unity.modules.imageconversion@1.0.0
   assetPath: Packages/com.unity.modules.imageconversion
   name: com.unity.modules.imageconversion
   displayName: Image Conversion
@@ -2591,7 +2840,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/ayushwattal/Documents/GitHub/driving-simulator/3D/Library/PackageCache/com.unity.modules.imgui@1.0.0
+  resolvedPath: /Users/leonardoblas/Desktop/driving-simulator/3D/Library/PackageCache/com.unity.modules.imgui@1.0.0
   assetPath: Packages/com.unity.modules.imgui
   name: com.unity.modules.imgui
   displayName: IMGUI
@@ -2646,7 +2895,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/ayushwattal/Documents/GitHub/driving-simulator/3D/Library/PackageCache/com.unity.modules.jsonserialize@1.0.0
+  resolvedPath: /Users/leonardoblas/Desktop/driving-simulator/3D/Library/PackageCache/com.unity.modules.jsonserialize@1.0.0
   assetPath: Packages/com.unity.modules.jsonserialize
   name: com.unity.modules.jsonserialize
   displayName: JSONSerialize
@@ -2701,7 +2950,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/ayushwattal/Documents/GitHub/driving-simulator/3D/Library/PackageCache/com.unity.modules.particlesystem@1.0.0
+  resolvedPath: /Users/leonardoblas/Desktop/driving-simulator/3D/Library/PackageCache/com.unity.modules.particlesystem@1.0.0
   assetPath: Packages/com.unity.modules.particlesystem
   name: com.unity.modules.particlesystem
   displayName: Particle System
@@ -2756,7 +3005,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/ayushwattal/Documents/GitHub/driving-simulator/3D/Library/PackageCache/com.unity.modules.physics@1.0.0
+  resolvedPath: /Users/leonardoblas/Desktop/driving-simulator/3D/Library/PackageCache/com.unity.modules.physics@1.0.0
   assetPath: Packages/com.unity.modules.physics
   name: com.unity.modules.physics
   displayName: Physics
@@ -2811,7 +3060,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/ayushwattal/Documents/GitHub/driving-simulator/3D/Library/PackageCache/com.unity.modules.physics2d@1.0.0
+  resolvedPath: /Users/leonardoblas/Desktop/driving-simulator/3D/Library/PackageCache/com.unity.modules.physics2d@1.0.0
   assetPath: Packages/com.unity.modules.physics2d
   name: com.unity.modules.physics2d
   displayName: Physics 2D
@@ -2866,7 +3115,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/ayushwattal/Documents/GitHub/driving-simulator/3D/Library/PackageCache/com.unity.modules.screencapture@1.0.0
+  resolvedPath: /Users/leonardoblas/Desktop/driving-simulator/3D/Library/PackageCache/com.unity.modules.screencapture@1.0.0
   assetPath: Packages/com.unity.modules.screencapture
   name: com.unity.modules.screencapture
   displayName: Screen Capture
@@ -2925,7 +3174,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/ayushwattal/Documents/GitHub/driving-simulator/3D/Library/PackageCache/com.unity.modules.terrain@1.0.0
+  resolvedPath: /Users/leonardoblas/Desktop/driving-simulator/3D/Library/PackageCache/com.unity.modules.terrain@1.0.0
   assetPath: Packages/com.unity.modules.terrain
   name: com.unity.modules.terrain
   displayName: Terrain
@@ -2980,7 +3229,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/ayushwattal/Documents/GitHub/driving-simulator/3D/Library/PackageCache/com.unity.modules.terrainphysics@1.0.0
+  resolvedPath: /Users/leonardoblas/Desktop/driving-simulator/3D/Library/PackageCache/com.unity.modules.terrainphysics@1.0.0
   assetPath: Packages/com.unity.modules.terrainphysics
   name: com.unity.modules.terrainphysics
   displayName: Terrain Physics
@@ -3043,7 +3292,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/ayushwattal/Documents/GitHub/driving-simulator/3D/Library/PackageCache/com.unity.modules.tilemap@1.0.0
+  resolvedPath: /Users/leonardoblas/Desktop/driving-simulator/3D/Library/PackageCache/com.unity.modules.tilemap@1.0.0
   assetPath: Packages/com.unity.modules.tilemap
   name: com.unity.modules.tilemap
   displayName: Tilemap
@@ -3101,7 +3350,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/ayushwattal/Documents/GitHub/driving-simulator/3D/Library/PackageCache/com.unity.modules.ui@1.0.0
+  resolvedPath: /Users/leonardoblas/Desktop/driving-simulator/3D/Library/PackageCache/com.unity.modules.ui@1.0.0
   assetPath: Packages/com.unity.modules.ui
   name: com.unity.modules.ui
   displayName: UI
@@ -3156,7 +3405,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/ayushwattal/Documents/GitHub/driving-simulator/3D/Library/PackageCache/com.unity.modules.uielements@1.0.0
+  resolvedPath: /Users/leonardoblas/Desktop/driving-simulator/3D/Library/PackageCache/com.unity.modules.uielements@1.0.0
   assetPath: Packages/com.unity.modules.uielements
   name: com.unity.modules.uielements
   displayName: UIElements
@@ -3223,7 +3472,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/ayushwattal/Documents/GitHub/driving-simulator/3D/Library/PackageCache/com.unity.modules.umbra@1.0.0
+  resolvedPath: /Users/leonardoblas/Desktop/driving-simulator/3D/Library/PackageCache/com.unity.modules.umbra@1.0.0
   assetPath: Packages/com.unity.modules.umbra
   name: com.unity.modules.umbra
   displayName: Umbra
@@ -3278,7 +3527,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/ayushwattal/Documents/GitHub/driving-simulator/3D/Library/PackageCache/com.unity.modules.unityanalytics@1.0.0
+  resolvedPath: /Users/leonardoblas/Desktop/driving-simulator/3D/Library/PackageCache/com.unity.modules.unityanalytics@1.0.0
   assetPath: Packages/com.unity.modules.unityanalytics
   name: com.unity.modules.unityanalytics
   displayName: Unity Analytics
@@ -3341,7 +3590,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/ayushwattal/Documents/GitHub/driving-simulator/3D/Library/PackageCache/com.unity.modules.unitywebrequest@1.0.0
+  resolvedPath: /Users/leonardoblas/Desktop/driving-simulator/3D/Library/PackageCache/com.unity.modules.unitywebrequest@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequest
   name: com.unity.modules.unitywebrequest
   displayName: Unity Web Request
@@ -3396,7 +3645,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/ayushwattal/Documents/GitHub/driving-simulator/3D/Library/PackageCache/com.unity.modules.unitywebrequestassetbundle@1.0.0
+  resolvedPath: /Users/leonardoblas/Desktop/driving-simulator/3D/Library/PackageCache/com.unity.modules.unitywebrequestassetbundle@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequestassetbundle
   name: com.unity.modules.unitywebrequestassetbundle
   displayName: Unity Web Request Asset Bundle
@@ -3459,7 +3708,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/ayushwattal/Documents/GitHub/driving-simulator/3D/Library/PackageCache/com.unity.modules.unitywebrequestaudio@1.0.0
+  resolvedPath: /Users/leonardoblas/Desktop/driving-simulator/3D/Library/PackageCache/com.unity.modules.unitywebrequestaudio@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequestaudio
   name: com.unity.modules.unitywebrequestaudio
   displayName: Unity Web Request Audio
@@ -3522,7 +3771,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/ayushwattal/Documents/GitHub/driving-simulator/3D/Library/PackageCache/com.unity.modules.unitywebrequesttexture@1.0.0
+  resolvedPath: /Users/leonardoblas/Desktop/driving-simulator/3D/Library/PackageCache/com.unity.modules.unitywebrequesttexture@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequesttexture
   name: com.unity.modules.unitywebrequesttexture
   displayName: Unity Web Request Texture
@@ -3585,7 +3834,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/ayushwattal/Documents/GitHub/driving-simulator/3D/Library/PackageCache/com.unity.modules.unitywebrequestwww@1.0.0
+  resolvedPath: /Users/leonardoblas/Desktop/driving-simulator/3D/Library/PackageCache/com.unity.modules.unitywebrequestwww@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequestwww
   name: com.unity.modules.unitywebrequestwww
   displayName: Unity Web Request WWW
@@ -3664,7 +3913,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/ayushwattal/Documents/GitHub/driving-simulator/3D/Library/PackageCache/com.unity.modules.vehicles@1.0.0
+  resolvedPath: /Users/leonardoblas/Desktop/driving-simulator/3D/Library/PackageCache/com.unity.modules.vehicles@1.0.0
   assetPath: Packages/com.unity.modules.vehicles
   name: com.unity.modules.vehicles
   displayName: Vehicles
@@ -3723,7 +3972,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/ayushwattal/Documents/GitHub/driving-simulator/3D/Library/PackageCache/com.unity.modules.video@1.0.0
+  resolvedPath: /Users/leonardoblas/Desktop/driving-simulator/3D/Library/PackageCache/com.unity.modules.video@1.0.0
   assetPath: Packages/com.unity.modules.video
   name: com.unity.modules.video
   displayName: Video
@@ -3790,7 +4039,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/ayushwattal/Documents/GitHub/driving-simulator/3D/Library/PackageCache/com.unity.modules.vr@1.0.0
+  resolvedPath: /Users/leonardoblas/Desktop/driving-simulator/3D/Library/PackageCache/com.unity.modules.vr@1.0.0
   assetPath: Packages/com.unity.modules.vr
   name: com.unity.modules.vr
   displayName: VR
@@ -3859,7 +4108,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/ayushwattal/Documents/GitHub/driving-simulator/3D/Library/PackageCache/com.unity.modules.wind@1.0.0
+  resolvedPath: /Users/leonardoblas/Desktop/driving-simulator/3D/Library/PackageCache/com.unity.modules.wind@1.0.0
   assetPath: Packages/com.unity.modules.wind
   name: com.unity.modules.wind
   displayName: Wind
@@ -3914,7 +4163,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/ayushwattal/Documents/GitHub/driving-simulator/3D/Library/PackageCache/com.unity.modules.xr@1.0.0
+  resolvedPath: /Users/leonardoblas/Desktop/driving-simulator/3D/Library/PackageCache/com.unity.modules.xr@1.0.0
   assetPath: Packages/com.unity.modules.xr
   name: com.unity.modules.xr
   displayName: XR
@@ -3981,7 +4230,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/ayushwattal/Documents/GitHub/driving-simulator/3D/Library/PackageCache/com.unity.modules.subsystems@1.0.0
+  resolvedPath: /Users/leonardoblas/Desktop/driving-simulator/3D/Library/PackageCache/com.unity.modules.subsystems@1.0.0
   assetPath: Packages/com.unity.modules.subsystems
   name: com.unity.modules.subsystems
   displayName: Subsystems
@@ -4040,7 +4289,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.0.7
   source: 1
-  resolvedPath: /Users/ayushwattal/Documents/GitHub/driving-simulator/3D/Library/PackageCache/com.unity.sysroot@2.0.7
+  resolvedPath: /Users/leonardoblas/Desktop/driving-simulator/3D/Library/PackageCache/com.unity.sysroot@2.0.7
   assetPath: Packages/com.unity.sysroot
   name: com.unity.sysroot
   displayName: Sysroot Base
@@ -4119,7 +4368,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.0.6
   source: 1
-  resolvedPath: /Users/ayushwattal/Documents/GitHub/driving-simulator/3D/Library/PackageCache/com.unity.sysroot.linux-x86_64@2.0.6
+  resolvedPath: /Users/leonardoblas/Desktop/driving-simulator/3D/Library/PackageCache/com.unity.sysroot.linux-x86_64@2.0.6
   assetPath: Packages/com.unity.sysroot.linux-x86_64
   name: com.unity.sysroot.linux-x86_64
   displayName: Sysroot Linux x64
@@ -4199,7 +4448,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.6
   source: 1
-  resolvedPath: /Users/ayushwattal/Documents/GitHub/driving-simulator/3D/Library/PackageCache/com.unity.ext.nunit@1.0.6
+  resolvedPath: /Users/leonardoblas/Desktop/driving-simulator/3D/Library/PackageCache/com.unity.ext.nunit@1.0.6
   assetPath: Packages/com.unity.ext.nunit
   name: com.unity.ext.nunit
   displayName: Custom NUnit
@@ -4270,7 +4519,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.11.0
   source: 1
-  resolvedPath: /Users/ayushwattal/Documents/GitHub/driving-simulator/3D/Library/PackageCache/com.unity.services.core@1.11.0
+  resolvedPath: /Users/leonardoblas/Desktop/driving-simulator/3D/Library/PackageCache/com.unity.services.core@1.11.0
   assetPath: Packages/com.unity.services.core
   name: com.unity.services.core
   displayName: Services Core
@@ -4363,7 +4612,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.2.0
   source: 1
-  resolvedPath: /Users/ayushwattal/Documents/GitHub/driving-simulator/3D/Library/PackageCache/com.unity.services.wire@1.2.0
+  resolvedPath: /Users/leonardoblas/Desktop/driving-simulator/3D/Library/PackageCache/com.unity.services.wire@1.2.0
   assetPath: Packages/com.unity.services.wire
   name: com.unity.services.wire
   displayName: Wire
@@ -4389,9 +4638,11 @@ m_ResolvedPackages:
     - 1.1.6
     - 1.1.8
     - 1.2.0
+    - 1.2.2
     compatible:
     - 1.2.0
-    recommended: 1.2.0
+    - 1.2.2
+    recommended: 1.2.2
     deprecated: []
   dependencies:
   - name: com.unity.services.core
@@ -4449,7 +4700,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 3.2.1
   source: 1
-  resolvedPath: /Users/ayushwattal/Documents/GitHub/driving-simulator/3D/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.2.1
+  resolvedPath: /Users/leonardoblas/Desktop/driving-simulator/3D/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.2.1
   assetPath: Packages/com.unity.nuget.newtonsoft-json
   name: com.unity.nuget.newtonsoft-json
   displayName: Newtonsoft Json
@@ -4527,7 +4778,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.0.1
   source: 1
-  resolvedPath: /Users/ayushwattal/Documents/GitHub/driving-simulator/3D/Library/PackageCache/com.unity.settings-manager@2.0.1
+  resolvedPath: /Users/leonardoblas/Desktop/driving-simulator/3D/Library/PackageCache/com.unity.settings-manager@2.0.1
   assetPath: Packages/com.unity.settings-manager
   name: com.unity.settings-manager
   displayName: Settings Manager
@@ -4584,12 +4835,656 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+- packageId: com.unity.nuget.mono-cecil@1.11.4
+  testable: 0
+  isDirectDependency: 0
+  version: 1.11.4
+  source: 1
+  resolvedPath: /Users/leonardoblas/Desktop/driving-simulator/3D/Library/PackageCache/com.unity.nuget.mono-cecil@1.11.4
+  assetPath: Packages/com.unity.nuget.mono-cecil
+  name: com.unity.nuget.mono-cecil
+  displayName: Mono Cecil
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: library
+  description: 'The mono cecil library from https://www.nuget.org/packages/Mono.Cecil/
+
+
+    This
+    package is intended for internal Unity use only. Most Unity users will be better
+    suite using the existing community tooling.
+
+    To avoid assembly clashes, please
+    use this package if you intend to use Mono.Cecil.'
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 0.1.6-preview.2
+    - 1.0.0-preview.1
+    - 1.10.0-preview.1
+    - 1.10.1-preview.1
+    - 1.10.1
+    - 1.10.2
+    - 1.11.4
+    compatible:
+    - 1.11.4
+    recommended: 1.11.4
+    deprecated: []
+  dependencies: []
+  resolvedDependencies: []
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 637852971930000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/com.unity.nuget.mono-cecil.git
+    revision: d0133ce672d724694b56bfd20672acf6f8737fec
+    path: 
+  unityLifecycle:
+    version: 1.11.4
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.transport@1.3.4
+  testable: 0
+  isDirectDependency: 0
+  version: 1.3.4
+  source: 1
+  resolvedPath: /Users/leonardoblas/Desktop/driving-simulator/3D/Library/PackageCache/com.unity.transport@1.3.4
+  assetPath: Packages/com.unity.transport
+  name: com.unity.transport
+  displayName: Unity Transport
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: asset
+  description: Unity network transport layer - the low-level interface for sending
+    UDP data
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 0.2.0-preview.4
+    - 0.2.1-preview.1
+    - 0.2.2-preview.2
+    - 0.2.3-preview.0
+    - 0.2.4-preview.0
+    - 0.3.0-preview.6
+    - 0.3.1-preview.4
+    - 0.4.0-preview.3
+    - 0.4.1-preview.1
+    - 0.5.0-preview.5
+    - 0.6.0-preview.7
+    - 0.8.0-preview.8
+    - 1.0.0-pre.2
+    - 1.0.0-pre.3
+    - 1.0.0-pre.4
+    - 1.0.0-pre.5
+    - 1.0.0-pre.6
+    - 1.0.0-pre.7
+    - 1.0.0-pre.8
+    - 1.0.0-pre.9
+    - 1.0.0-pre.10
+    - 1.0.0-pre.12
+    - 1.0.0-pre.13
+    - 1.0.0-pre.14
+    - 1.0.0-pre.15
+    - 1.0.0-pre.16
+    - 1.0.0
+    - 1.1.0
+    - 1.2.0
+    - 1.3.0
+    - 1.3.1
+    - 1.3.2
+    - 1.3.3
+    - 1.3.4
+    - 1.4.0
+    - 2.0.0-exp.6
+    - 2.0.0-exp.7
+    - 2.0.0-exp.8
+    - 2.0.0-pre.2
+    - 2.0.0-pre.3
+    - 2.0.0-pre.5
+    - 2.0.0-pre.6
+    - 2.0.0-pre.7
+    - 2.0.0-pre.8
+    - 2.0.1
+    - 2.0.2
+    - 2.1.0
+    compatible:
+    - 1.3.4
+    - 1.4.0
+    - 2.0.0-exp.6
+    - 2.0.0-exp.7
+    - 2.0.0-exp.8
+    - 2.0.0-pre.2
+    - 2.0.0-pre.3
+    - 2.0.0-pre.5
+    - 2.0.0-pre.6
+    - 2.0.0-pre.7
+    - 2.0.0-pre.8
+    - 2.0.1
+    - 2.0.2
+    - 2.1.0
+    recommended: 1.3.4
+    deprecated: []
+  dependencies:
+  - name: com.unity.collections
+    version: 1.2.4
+  - name: com.unity.burst
+    version: 1.6.6
+  - name: com.unity.mathematics
+    version: 1.2.6
+  resolvedDependencies:
+  - name: com.unity.collections
+    version: 1.2.4
+  - name: com.unity.burst
+    version: 1.8.8
+  - name: com.unity.mathematics
+    version: 1.2.6
+  - name: com.unity.test-framework
+    version: 1.1.33
+  - name: com.unity.ext.nunit
+    version: 1.0.6
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638181861830000000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.transport@1.3/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/com.unity.transport.git
+    revision: 5e7f04b9ae40d63aeda6d97eab9d86e86fa40d3b
+    path: 
+  unityLifecycle:
+    version: 1.3.4
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.profiling.core@1.0.2
+  testable: 0
+  isDirectDependency: 0
+  version: 1.0.2
+  source: 1
+  resolvedPath: /Users/leonardoblas/Desktop/driving-simulator/3D/Library/PackageCache/com.unity.profiling.core@1.0.2
+  assetPath: Packages/com.unity.profiling.core
+  name: com.unity.profiling.core
+  displayName: Unity Profiling Core API
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: asset
+  description: The Unity Profiling Core package provides an API for code instrumentation
+    markup, and for profiling statistic collection.
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 0.1.0-preview.1
+    - 0.2.0-preview.1
+    - 0.2.1-preview.1
+    - 1.0.0-pre.1
+    - 1.0.0
+    - 1.0.2
+    compatible:
+    - 1.0.2
+    recommended: 1.0.2
+    deprecated: []
+  dependencies: []
+  resolvedDependencies: []
+  keywords:
+  - profiler
+  - profiling
+  - api
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 637828752310000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/profiler.git
+    revision: 2189ba14439d76a4083f59fae87163b4bdfd49c2
+    path: 
+  unityLifecycle:
+    version: 1.0.2
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.collections@1.2.4
+  testable: 0
+  isDirectDependency: 0
+  version: 1.2.4
+  source: 1
+  resolvedPath: /Users/leonardoblas/Desktop/driving-simulator/3D/Library/PackageCache/com.unity.collections@1.2.4
+  assetPath: Packages/com.unity.collections
+  name: com.unity.collections
+  displayName: Collections
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: asset
+  description: A C# collections library providing data structures that can be used
+    in jobs, and optimized by Burst compiler.
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 0.0.9-preview.1
+    - 0.0.9-preview.2
+    - 0.0.9-preview.3
+    - 0.0.9-preview.4
+    - 0.0.9-preview.5
+    - 0.0.9-preview.6
+    - 0.0.9-preview.7
+    - 0.0.9-preview.8
+    - 0.0.9-preview.9
+    - 0.0.9-preview.10
+    - 0.0.9-preview.11
+    - 0.0.9-preview.12
+    - 0.0.9-preview.13
+    - 0.0.9-preview.14
+    - 0.0.9-preview.15
+    - 0.0.9-preview.16
+    - 0.0.9-preview.17
+    - 0.0.9-preview.18
+    - 0.0.9-preview.19
+    - 0.0.9-preview.20
+    - 0.1.0-preview
+    - 0.1.1-preview
+    - 0.2.0-preview.13
+    - 0.3.0-preview.0
+    - 0.4.0-preview.6
+    - 0.5.0-preview.9
+    - 0.5.1-preview.11
+    - 0.5.2-preview.8
+    - 0.6.0-preview.9
+    - 0.7.0-preview.2
+    - 0.7.1-preview.3
+    - 0.8.0-preview.5
+    - 0.9.0-preview.5
+    - 0.9.0-preview.6
+    - 0.11.0-preview.17
+    - 0.12.0-preview.13
+    - 0.14.0-preview.16
+    - 0.15.0-preview.21
+    - 0.17.0-preview.18
+    - 1.0.0-pre.3
+    - 1.0.0-pre.5
+    - 1.0.0-pre.6
+    - 1.1.0
+    - 1.2.3-pre.1
+    - 1.2.3
+    - 1.2.4
+    - 1.3.1
+    - 1.4.0
+    - 1.5.1
+    - 2.1.0-exp.4
+    - 2.1.0-pre.2
+    - 2.1.0-pre.6
+    - 2.1.0-pre.11
+    - 2.1.0-pre.18
+    - 2.1.1
+    - 2.1.4
+    - 2.2.0
+    - 2.2.1
+    - 2.3.0-exp.1
+    compatible:
+    - 1.2.4
+    - 1.3.1
+    - 1.4.0
+    - 1.5.1
+    - 2.1.0-exp.4
+    - 2.1.0-pre.2
+    - 2.1.0-pre.6
+    - 2.1.0-pre.11
+    - 2.1.0-pre.18
+    - 2.1.1
+    - 2.1.4
+    - 2.2.0
+    - 2.2.1
+    - 2.3.0-exp.1
+    recommended: 1.2.4
+    deprecated: []
+  dependencies:
+  - name: com.unity.burst
+    version: 1.6.6
+  - name: com.unity.test-framework
+    version: 1.1.31
+  resolvedDependencies:
+  - name: com.unity.burst
+    version: 1.8.8
+  - name: com.unity.mathematics
+    version: 1.2.6
+  - name: com.unity.test-framework
+    version: 1.1.33
+  - name: com.unity.ext.nunit
+    version: 1.0.6
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  keywords:
+  - dots
+  - collections
+  - unity
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 637908244640000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/dots.git
+    revision: 32d153034bea0703098263469b88c73619422782
+    path: 
+  unityLifecycle:
+    version: 1.2.4
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.netcode.gameobjects@1.6.0
+  testable: 0
+  isDirectDependency: 1
+  version: 1.6.0
+  source: 1
+  resolvedPath: /Users/leonardoblas/Desktop/driving-simulator/3D/Library/PackageCache/com.unity.netcode.gameobjects@1.6.0
+  assetPath: Packages/com.unity.netcode.gameobjects
+  name: com.unity.netcode.gameobjects
+  displayName: Netcode for GameObjects
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: assets
+  description: Netcode for GameObjects is a high-level netcode SDK that provides
+    networking capabilities to GameObject/MonoBehaviour workflows within Unity and
+    sits on top of underlying transport layer.
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.0-pre.2
+    - 1.0.0-pre.3
+    - 1.0.0-pre.4
+    - 1.0.0-pre.5
+    - 1.0.0-pre.6
+    - 1.0.0-pre.7
+    - 1.0.0-pre.8
+    - 1.0.0-pre.9
+    - 1.0.0-pre.10
+    - 1.0.0
+    - 1.0.1
+    - 1.0.2
+    - 1.1.0
+    - 1.2.0
+    - 1.3.1
+    - 1.4.0
+    - 1.5.1
+    - 1.5.2
+    - 1.6.0
+    compatible:
+    - 1.5.2
+    - 1.6.0
+    recommended: 1.5.2
+    deprecated: []
+  dependencies:
+  - name: com.unity.nuget.mono-cecil
+    version: 1.10.1
+  - name: com.unity.transport
+    version: 1.3.4
+  resolvedDependencies:
+  - name: com.unity.nuget.mono-cecil
+    version: 1.11.4
+  - name: com.unity.transport
+    version: 1.3.4
+  - name: com.unity.collections
+    version: 1.2.4
+  - name: com.unity.burst
+    version: 1.8.8
+  - name: com.unity.mathematics
+    version: 1.2.6
+  - name: com.unity.test-framework
+    version: 1.1.33
+  - name: com.unity.ext.nunit
+    version: 1.0.6
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638285541280000000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.netcode.gameobjects@1.6/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.com/Unity-Technologies/com.unity.netcode.gameobjects.git
+    revision: 4ee8da05b439a5b8f76ee6d008221c6d58b7965a
+    path: 
+  unityLifecycle:
+    version: 1.5.2
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.services.relay@1.0.5
+  testable: 0
+  isDirectDependency: 0
+  version: 1.0.5
+  source: 1
+  resolvedPath: /Users/leonardoblas/Desktop/driving-simulator/3D/Library/PackageCache/com.unity.services.relay@1.0.5
+  assetPath: Packages/com.unity.services.relay
+  name: com.unity.services.relay
+  displayName: Relay
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: asset
+  description: 'Connect the players of your peer-hosted games with Relay. Your games
+    will also benefit from improved reliability, privacy and the ability to communicate
+    across platforms. To get started, enable listen-server UDP networking for your
+    project on the Unity Dashboard.
+
+
+    Features include an allocation service
+    to join game hosts via code, multi-region support, and more.'
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.0-pre.4
+    - 1.0.1-pre.1
+    - 1.0.1-pre.2
+    - 1.0.1-pre.3
+    - 1.0.1-pre.4
+    - 1.0.1-pre.5
+    - 1.0.1-pre.6
+    - 1.0.2
+    - 1.0.3
+    - 1.0.4
+    - 1.0.5
+    compatible:
+    - 1.0.5
+    recommended: 1.0.5
+    deprecated: []
+  dependencies:
+  - name: com.unity.services.core
+    version: 1.4.0
+  - name: com.unity.services.authentication
+    version: 2.0.0
+  - name: com.unity.services.qos
+    version: 1.1.0
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  - name: com.unity.modules.unitywebrequestassetbundle
+    version: 1.0.0
+  - name: com.unity.modules.unitywebrequestaudio
+    version: 1.0.0
+  - name: com.unity.modules.unitywebrequesttexture
+    version: 1.0.0
+  - name: com.unity.modules.unitywebrequestwww
+    version: 1.0.0
+  - name: com.unity.nuget.newtonsoft-json
+    version: 3.0.2
+  - name: com.unity.transport
+    version: 1.3.0
+  resolvedDependencies:
+  - name: com.unity.services.core
+    version: 1.11.0
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  - name: com.unity.nuget.newtonsoft-json
+    version: 3.2.1
+  - name: com.unity.modules.androidjni
+    version: 1.0.0
+  - name: com.unity.services.authentication
+    version: 3.0.0
+  - name: com.unity.ugui
+    version: 1.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.services.qos
+    version: 1.2.1
+  - name: com.unity.collections
+    version: 1.2.4
+  - name: com.unity.burst
+    version: 1.8.8
+  - name: com.unity.mathematics
+    version: 1.2.6
+  - name: com.unity.test-framework
+    version: 1.1.33
+  - name: com.unity.ext.nunit
+    version: 1.0.6
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.modules.unitywebrequestassetbundle
+    version: 1.0.0
+  - name: com.unity.modules.assetbundle
+    version: 1.0.0
+  - name: com.unity.modules.unitywebrequestaudio
+    version: 1.0.0
+  - name: com.unity.modules.audio
+    version: 1.0.0
+  - name: com.unity.modules.unitywebrequesttexture
+    version: 1.0.0
+  - name: com.unity.modules.imageconversion
+    version: 1.0.0
+  - name: com.unity.modules.unitywebrequestwww
+    version: 1.0.0
+  - name: com.unity.transport
+    version: 1.3.4
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638056035740000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/operate-services-sdk.git
+    revision: 159fd0991355fd3398ba0a9d8c79fc0048d716e3
+    path: 
+  unityLifecycle:
+    version: 1.0.5
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
 - packageId: com.unity.editorcoroutines@1.0.0
   testable: 0
   isDirectDependency: 0
   version: 1.0.0
   source: 1
-  resolvedPath: /Users/ayushwattal/Documents/GitHub/driving-simulator/3D/Library/PackageCache/com.unity.editorcoroutines@1.0.0
+  resolvedPath: /Users/leonardoblas/Desktop/driving-simulator/3D/Library/PackageCache/com.unity.editorcoroutines@1.0.0
   assetPath: Packages/com.unity.editorcoroutines
   name: com.unity.editorcoroutines
   displayName: Editor Coroutines
@@ -4654,7 +5549,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.8.8
   source: 1
-  resolvedPath: /Users/ayushwattal/Documents/GitHub/driving-simulator/3D/Library/PackageCache/com.unity.burst@1.8.8
+  resolvedPath: /Users/leonardoblas/Desktop/driving-simulator/3D/Library/PackageCache/com.unity.burst@1.8.8
   assetPath: Packages/com.unity.burst
   name: com.unity.burst
   displayName: Burst
@@ -4793,9 +5688,11 @@ m_ResolvedPackages:
     - 1.8.4
     - 1.8.7
     - 1.8.8
+    - 1.8.9
     compatible:
     - 1.8.8
-    recommended: 1.8.8
+    - 1.8.9
+    recommended: 1.8.9
     deprecated: []
   dependencies:
   - name: com.unity.mathematics
@@ -4835,7 +5732,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.2.6
   source: 1
-  resolvedPath: /Users/ayushwattal/Documents/GitHub/driving-simulator/3D/Library/PackageCache/com.unity.mathematics@1.2.6
+  resolvedPath: /Users/leonardoblas/Desktop/driving-simulator/3D/Library/PackageCache/com.unity.mathematics@1.2.6
   assetPath: Packages/com.unity.mathematics
   name: com.unity.mathematics
   displayName: Mathematics
@@ -4898,6 +5795,104 @@ m_ResolvedPackages:
     path: 
   unityLifecycle:
     version: 1.2.6
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.services.qos@1.2.1
+  testable: 0
+  isDirectDependency: 0
+  version: 1.2.1
+  source: 1
+  resolvedPath: /Users/leonardoblas/Desktop/driving-simulator/3D/Library/PackageCache/com.unity.services.qos@1.2.1
+  assetPath: Packages/com.unity.services.qos
+  name: com.unity.services.qos
+  displayName: QoS
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: assets
+  description: Provides connectivity Quality of Service (QoS) measurements from Unity
+    game clients to different Unity game services running in various geographic regions.
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.0
+    - 1.0.1
+    - 1.0.2
+    - 1.1.0
+    - 1.2.0
+    - 1.2.1
+    compatible:
+    - 1.2.1
+    recommended: 1.2.1
+    deprecated: []
+  dependencies:
+  - name: com.unity.services.core
+    version: 1.4.0
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  - name: com.unity.nuget.newtonsoft-json
+    version: 3.0.2
+  - name: com.unity.services.authentication
+    version: 2.0.0
+  - name: com.unity.collections
+    version: 1.2.4
+  resolvedDependencies:
+  - name: com.unity.services.core
+    version: 1.11.0
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  - name: com.unity.nuget.newtonsoft-json
+    version: 3.2.1
+  - name: com.unity.modules.androidjni
+    version: 1.0.0
+  - name: com.unity.services.authentication
+    version: 3.0.0
+  - name: com.unity.ugui
+    version: 1.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.collections
+    version: 1.2.4
+  - name: com.unity.burst
+    version: 1.8.8
+  - name: com.unity.mathematics
+    version: 1.2.6
+  - name: com.unity.test-framework
+    version: 1.1.33
+  - name: com.unity.ext.nunit
+    version: 1.0.6
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638241534880000000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.services.qos@1.2/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/operate-services-sdk.git
+    revision: 03ad6f4152f0312b8c4cf090152fc0ad5e5891c4
+    path: 
+  unityLifecycle:
+    version: 1.2.1
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0

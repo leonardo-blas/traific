@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using Unity.Netcode;
 
 namespace KartGame.KartSystems
 {
@@ -7,7 +8,7 @@ namespace KartGame.KartSystems
     /// Allows custom collision detection and bounce effects when the kart collides to the collision layer.
     /// </summary>
     [RequireComponent(typeof(ArcadeKart))]
-    public class KartBounce : MonoBehaviour
+    public class KartBounce : NetworkBehaviour
     {
         /// <summary>
         /// Represents a single frame where the bounce was actually triggered. Use this as a flag 

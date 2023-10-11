@@ -1,5 +1,6 @@
 ﻿using System;
 using UnityEngine;
+using Unity.Netcode;
 
 namespace KartGame.KartSystems
 {
@@ -7,7 +8,7 @@ namespace KartGame.KartSystems
     /// This class handles all the canned and procedural animation for the kart, giving it a more pleasing appearance.
     /// </summary>
     [DefaultExecutionOrder(100)]
-    public class KartAnimation : MonoBehaviour
+    public class KartAnimation : NetworkBehaviour
     {
         /// <summary>
         /// A class representing an individual wheel on a kart.  This can be used to represent either front or back wheels.

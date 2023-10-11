@@ -1,9 +1,10 @@
 ﻿using UnityEngine;
 using System.Collections.Generic;
+using Unity.Netcode;
 
 namespace KartGame.KartSystems
 {
-    public class ArcadeKart : MonoBehaviour
+    public class ArcadeKart : NetworkBehaviour
     {
         /// <summary>
         /// Contains parameters that can adjust the kart's behaviors temporarily.
