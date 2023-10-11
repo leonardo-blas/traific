@@ -19,3 +19,7 @@ Currently, we are using a karting game project as template to kick-off the 3D si
 ### Base version
 https://github.com/leonardo-blas/driving-simulator/assets/125172895/2f5cb4cc-e7ad-4ada-900b-663aad37b97c
 
+## Local multiplayer
+The latest version supports local multipalyer via Unity's NetCode tools.
+
+https://github.com/leonardo-blas/driving-simulator/assets/125172895/76786af7-6418-498f-89d0-1a7db3830bed
