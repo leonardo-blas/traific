@@ -8,9 +8,6 @@ SplashScreenCache/
 Logs/
 Library/
 
-ArtifactDB
-ArtifactDB-lockw
-
 .vscode/
 .idea/
 .DS_Store
