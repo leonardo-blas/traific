@@ -1,6 +1,11 @@
 # Driving simulator
 A multiplayer Unity project to allow human and artificial drivers to interact in the same traffic environment.
 
+# Updates
+**Leo:** Multiplayer, networking, and server-side logic features completed. Working on physics, baking HDRP car models, and the data collection pipeline.
+**Urja + Chintan:** Working on a script to procedurally create a traffic grid from a GeoJSON file.
+**Jay:** Onboarded, working on the camera component.
+
 ## 2D version (legacy)
 The idea was to start with a 2D environment and develop it into a 3D one. We decided to stop any 2D efforts and focus on a 3D project.
 
