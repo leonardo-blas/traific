@@ -3,7 +3,9 @@ A multiplayer Unity project to allow human and artificial drivers to interact in
 
 # Updates
 **Leo:** Multiplayer, networking, and server-side logic features completed. Working on physics, baking HDRP car models, and the data collection pipeline.
+<br>
 **Urja + Chintan:** Working on a script to procedurally create a traffic grid from a GeoJSON file.
+<br>
 **Jay:** Onboarded, working on the camera component.
 
 ## 2D version (legacy)
