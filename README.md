@@ -1,5 +1,5 @@
-# Driving simulator
-A multiplayer Unity project to allow human and artificial drivers to interact in the same traffic environment.
+# Traific
+Traific is a Unity-based multiclient traffic and driving simulator to connect human and artificial drivers and study the traffic quality.
 
 # Updates
 **Leo:** Multiplayer, networking, server-side logic, and data collection pipeline features completed. Working on physics, baking HDRP car models.
